@@ -1,0 +1,24 @@
+Current Ratio
+Quick Ratio
+Days Sales Outstanding
+Cash Ratio
+Debt-to-Equity Ratio
+Equity Ratio
+Debt-to-Capital Ratio
+Debt-to-Asset Ratio
+Financial Leverage Ratio 
+Debt-to-Equity Ratio
+
+1. Current Ratio: Measures a company's short-term ability to pay its current liabilities with its current assets. (Current Assets / Current Liabilities). Higher ratios indicate better short-term liquidity.
+
+2. Quick Ratio: Similar to the current ratio, but excludes inventory (considered less liquid) to assess a company's absolute short-term liquidity. ((Current Assets - Inventory) / Current Liabilities). Higher ratios suggest a stronger ability to meet immediate obligations.
+
+3. Days Sales Outstanding (DSO): Measures the average time it takes a company to collect payment from credit customers. (Average Accounts Receivable / Daily Sales). Lower DSO indicates faster collection and better cash flow management.
+
+4. Cash Ratio: The most stringent liquidity measure, indicating the immediate ability to pay current liabilities with cash and cash equivalents. (Cash and Cash Equivalents / Current Liabilities). Higher ratios suggest stronger immediate financial security.
+
+5. Debt-to-Capital Ratio: Measures the proportion of a company's financing that comes from debt compared to its total capital (debt + equity). (Total Liabilities / Total Capital). A higher ratio indicates greater reliance on debt financing, which can be riskier but potentially more profitable.
+
+6. Equity Ratio: Represents the portion of a company's capital financed by shareholders' equity (ownership). (Shareholders' Equity / Total Assets). A higher ratio indicates a lower reliance on debt and potentially greater financial stability.
+
+7. Financial Leverage Ratio: Measures the extent to which a company uses debt to finance its assets, indicating the potential risk and return associated with its capital structure. (Total Assets / Shareholders' Equity). A higher ratio implies greater financial leverage, meaning higher potential returns but also higher risk of default if the company struggles financially.

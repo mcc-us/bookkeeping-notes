@@ -1,0 +1,26 @@
+Chapt 7 terms with definitions:
+
+- Accounts receivable ledger: A subsidiary ledger containing detailed records of individual customer credit accounts.
+- Contra revenue account: An account with a debit balance that reduces revenue, typically for sales returns, allowances, or discounts.
+- Control account: An account in the general ledger that summarizes the balances of all accounts in a specific subsidiary ledger.
+- Credit memorandum: A document issued to a customer acknowledging a reduction in their account due to a return, allowance, or tax adjustment.
+- Credit terms: The specific conditions for payment on credit purchases, including duration and potential late fees.
+- List price: The suggested retail price for a product, not necessarily the final selling price.
+- Manufacturing business: A company that transforms raw materials into finished goods for sale.
+- Merchandise inventory: Goods a merchandising business holds for resale, typically purchased from a supplier.
+- Merchandising business: A company that buys and resells finished goods without significant modification.
+- Net sales: The total revenue from sales after subtracting sales returns, allowances, and discounts.
+- Open-account credit: A system allowing customers to purchase goods or services with a promise to pay later.
+- Periodic inventory system: Inventory levels are only physically counted and updated periodically, often at the end of an accounting period.
+- Perpetual inventory system: A system that continuously tracks inventory on hand through real-time updates after each sale or purchase.
+- Retail business: A company that sells directly to consumers for personal use.
+- Sales allowance: A reduction in the price of goods or services granted to a customer, usually for damaged items or dissatisfaction.
+- Sales Discounts: A reduced amount for an invoice that is offered to customers who pay early. (Contra revenue account)
+- Sales return: The physical return of previously purchased goods to the seller for a refund or exchange.
+- Sales Returns and Allowances: A contra revenue account combining sales returns and allowances to calculate net sales.
+- Schedule of accounts receivable: A detailed listing of individual customer account balances, often used for aging analysis.
+- Service business: A company that provides intangible services to customers.
+- Subsidiary ledger: A separate ledger in the general ledger containing detailed records for specific groups of accounts linked to a control account.
+- Trade discount: A reduction in the list price offered by a manufacturer or wholesaler to a reseller, typically for buying in bulk.
+- Wholesale business: A company that sells goods in bulk to other industries, such as retailers or large consumers.
+
