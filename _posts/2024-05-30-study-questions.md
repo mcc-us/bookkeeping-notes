@@ -1,0 +1,105 @@
+---
+layout: post
+title: Study Questions
+--- 
+
+|Study Questions|
+|:-|
+|1. Drawee is person issuing check, Drawer is Bank ![](/WrongQuestions/Screenshot.at.2024-04-18.17-03-55.png)|
+|2. ![](/WrongQuestions/Screenshot.at.2024-04-18.17-04-22.png)|
+|3. a-c require no changes ![](/WrongQuestions/Screenshot.at.2024-04-18.17-04-39.png)|
+|4. ![](/WrongQuestions/Screenshot.at.2024-04-18.17-05-03.png)|
+|5. Book - NSF - fees = 7,700 ![](/WrongQuestions/Screenshot.at.2024-04-18.17-05-16.png)|
+|6. Employers pay ALL Medicare ![](/WrongQuestions/Screenshot.at.2024-04-20.11-14-29.png)|
+|7. Medicare depends on Hours worked ![](/WrongQuestions/Screenshot.at.2024-04-20.11-15-44.png)|
+|8. Payroll Taxes are 'Payables' ![](/WrongQuestions/Screenshot.at.2024-04-20.11-17-20.png)|
+|9. ![](/WrongQuestions/Screenshot.at.3b.cash.register.calc.png)|
+|10. ![](/WrongQuestions/Screenshot.chap1.q1.png)|
+|11. ![](/WrongQuestions/Screenshot.from.2024-04-12.11-49-15.png)|
+|12. ![](/WrongQuestions/Screenshot.from.2024-04-12.11-50-19.png)|
+|13.  DEA / LER ![](/WrongQuestions/Screenshot.from.2024-04-12.11-56-58.png)|
+|14. ![](/WrongQuestions/Screenshot.from.2024-04-12.12-06-16.png)|
+|15.  C is correct ![](/WrongQuestions/Screenshot.from.2024-04-12.15-25-12.png)|
+|16. ![](/WrongQuestions/Screenshot.from.2024-04-12.15-52-45.png)|
+|17. Income=13,200-(8,100+4,200+700)-900+4,400 ![](/WrongQuestions/Screenshot.from.2024-04-12.15-53-26.png)|
+|18. D ![](/WrongQuestions/Screenshot.from.2024-04-12.15-58-58.png)|
+|19. Sales=4,200, *sales does not include tax payable* ![](/WrongQuestions/Screenshot.from.2024-04-12.16-04-44.png)|
+|20. `Sales` receipt = 1,500, But Remember $15 is `Sales Discount`(??) ![](/WrongQuestions/Screenshot.from.2024-04-12.16-05-11.png)|
+|21. FALSE, the paperwork is called a `Purchase Requisition` ![](/WrongQuestions/Screenshot.from.2024-04-12.16-08-16.png)|
+|22. ![](/WrongQuestions/Screenshot.from.2024-04-12.16-09-18.png)|
+|23. ![](/WrongQuestions/Screenshot.from.2024-04-12.16-19-32.png)|
+|24. ![](/WrongQuestions/Screenshot.from.2024-04-12.16-20-15.png)|
+|25. ![](/WrongQuestions/Screenshot.from.2024-04-22.09-58-44.png)|
+|26. ![](/WrongQuestions/Screenshot.from.2024-04-22.11-14-45.png)|
+|27. ![](/WrongQuestions/Screenshot.from.2024-04-22.11-15-24.png)|
+|28. ![](/WrongQuestions/Screenshot.from.2024-04-22.11-17-32.png)|
+|29. ![](/WrongQuestions/Screenshot.from.2024-04-22.11-18-00.png)|
+|30. ![](/WrongQuestions/Screenshot.from.2024-04-22.11-18-16.png)|
+|31. ![](/WrongQuestions/Screenshot.from.2024-04-22.11-22-14.png)|
+|32. ![](/WrongQuestions/Screenshot.from.2024-04-22.12-01-56.png)|
+|33. ![](/WrongQuestions/Screenshot.from.2024-04-22.12-02-12.png)|
+|34. ![](/WrongQuestions/Screenshot.from.2024-04-22.12-02-34.png)|
+|35. ![](/WrongQuestions/Screenshot.from.2024-04-22.12-02-58.png)|
+|36. ![](/WrongQuestions/Screenshot.from.2024-04-22.17-01-47.png)|
+|37. ![](/WrongQuestions/Screenshot.from.2024-04-22.17-02-52.png)|
+|38. ![](/WrongQuestions/Screenshot.from.2024-04-23.10-18-52.png)|
+|39. ![](/WrongQuestions/Screenshot.from.2024-04-23.10-19-27.png)|
+|40. ![](/WrongQuestions/Screenshot.from.2024-04-24.11-07-30.png)|
+|41. ![](/WrongQuestions/Screenshot.from.2024-04-24.11-07-57.png)|
+|42. ![](/WrongQuestions/Screenshot.from.2024-04-24.11-08-19.png)|
+|43. ![](/WrongQuestions/Screenshot.from.2024-04-24.11-08-37.png)|
+|44. ![](/WrongQuestions/Screenshot.from.2024-04-24.11-08-52.png)|
+|45. ![](/WrongQuestions/Screenshot.from.2024-04-24.11-50-23.png)|
+|46. ![](/WrongQuestions/Screenshot.from.2024-04-24.11-50-35.png)|
+|47. ![](/WrongQuestions/Screenshot.from.2024-04-24.11-50-47.png)|
+|48. ![](/WrongQuestions/Screenshot.from.2024-04-24.11-51-05.png)|
+|49. ![](/WrongQuestions/Screenshot.from.2024-04-24.11-51-34.png)|
+|50. ![](/WrongQuestions/Screenshot.from.2024-04-25.08-51-08.png)|
+|51. ![](/WrongQuestions/Screenshot.from.2024-04-25.08-51-47.png)|
+|52. ![](/WrongQuestions/Screenshot.from.2024-04-25.10-06-58.png)|
+|53. ![](/WrongQuestions/Screenshot.from.2024-04-25.10-07-17.png)|
+|54. ![](/WrongQuestions/Screenshot.from.2024-04-27.16-35-44.png)|
+|55. ![](/WrongQuestions/Screenshot.from.2024-04-27.16-57-10.png)|
+|56. ![](/WrongQuestions/Screenshot.from.2024-04-29.09-12-38.png)|
+|57. ![](/WrongQuestions/Screenshot.from.2024-04-29.09-14-25.png)|
+|58. ![](/WrongQuestions/Screenshot.from.2024-04-29.09-49-26.png)|
+|59. ![](/WrongQuestions/Screenshot.from.2024-04-29.17-06-40.png)|
+|60. ![](/WrongQuestions/Screenshot.from.2024-04-29.17-50-17.png)|
+|61. ![](/WrongQuestions/Screenshot.from.2024-04-29.17-51-21.png)|
+|62. ![](/WrongQuestions/Screenshot.from.2024-04-29.17-58-06.png)|
+|63. ![](/WrongQuestions/Screenshot.from.2024-04-29.17-58-27.png)|
+|64. ![](/WrongQuestions/Screenshot.from.2024-04-30.10-37-45.png)|
+|65. ![](/WrongQuestions/Screenshot.from.2024-04-30.15-42-20.png)|
+|66. ![](/WrongQuestions/Screenshot.from.2024-05-01.13-03-12.png)|
+|67. ![](/WrongQuestions/Screenshot.from.2024-05-01.13-10-15.png)|
+|68. ![](/WrongQuestions/Screenshot.from.2024-05-01.13-10-54.png)|
+|69. ![](/WrongQuestions/Screenshot.from.2024-05-01.13-17-59.png)|
+|70. ![](/WrongQuestions/Screenshot.from.2024-05-02.09-50-58.png)|
+|71. ![](/WrongQuestions/Screenshot.from.2024-05-06.10-03-38.png)|
+|72. ![](/WrongQuestions/Screenshot.from.2024-05-06.10-04-48.png)|
+|73. ![](/WrongQuestions/Screenshot.from.2024-05-06.10-05-05.png)|
+|74. ![](/WrongQuestions/Screenshot.from.2024-05-06.10-05-22.png)|
+|75. ![](/WrongQuestions/Screenshot.from.2024-05-06.10-06-07.png)|
+|76. ![](/WrongQuestions/Screenshot.from.2024-05-06.10-06-26.png)|
+|77. ![](/WrongQuestions/Screenshot.from.2024-05-06.10-06-43.png)|
+|78. ![](/WrongQuestions/Screenshot.from.2024-05-06.10-06-57.png)|
+|79. ![](/WrongQuestions/Screenshot.from.2024-05-06.10-08-00.png)|
+|80. ![](/WrongQuestions/Screenshot.from.2024-05-06.10-08-23.png)|
+|81. ![](/WrongQuestions/Screenshot.from.2024-05-06.10-08-37.png)|
+|82. ![](/WrongQuestions/Screenshot.from.2024-05-06.10-09-28.png)|
+|83. ![](/WrongQuestions/Screenshot.from.2024-05-06.10-09-57.png)|
+|84. ![](/WrongQuestions/Screenshot.from.2024-05-06.10-11-14.png)|
+|85. ![](/WrongQuestions/Screenshot.from.2024-05-06.10-12-26.png)|
+|86. ![](/WrongQuestions/Screenshot.from.2024-05-06.10-12-57.png)|
+|87. ![](/WrongQuestions/Screenshot.from.2024-05-06.10-13-12.png)|
+|88. ![](/WrongQuestions/Screenshot.from.2024-05-06.10-13-38.png)|
+|89. ![](/WrongQuestions/Screenshot.from.2024-05-06.10-14-44.png)|
+|90. ![](/WrongQuestions/Screenshot.from.2024-05-06.10-15-00.png)|
+|91. ![](/WrongQuestions/Screenshot.from.2024-05-06.10-15-31.png)|
+|92. ![](/WrongQuestions/Screenshot.from.2024-05-06.10-15-42.png)|
+|93. ![](/WrongQuestions/Screenshot.from.2024-05-06.10-16-09.png)|
+|94. ![](/WrongQuestions/Screenshot.from.2024-05-06.10-16-28.png)|
+|95. ![](/WrongQuestions/Screenshot.from.2024-05-06.10-16-57.png)|
+|96. ![](/WrongQuestions/Screenshot%20from%202024-05-08%2011-51-58.png)|
+|97. ![](/WrongQuestions/chap6.section.r.no8.png)|
+|98. ![](/WrongQuestions/chap7.sec.rev.q12.png)|
