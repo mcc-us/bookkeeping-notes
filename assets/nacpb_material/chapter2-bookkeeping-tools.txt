@@ -1,0 +1,242 @@
+CHAPTER 2
+
+Bookkeeper Tools
+
+Introduction
+
+This chapter introduces the bookkeeping, payroll, and accounting tools utilized in our Accounting System.
+
+Accounting Analytics utilizes the leading support, bookkeeping, payroll, and accounting tools. We utilize technology, hardware,
+and applications that maximize efficiency and productivity.
+
+The tools are categorized as Support, Bookkeeping, Payroll, and Accounting tools.
+
+Support Tools
+
+Personal Computer
+
+A personal computer (PC) is the most versatile and efficient tool in just about any present-day vocation. If the user is stationary, a
+desktop PC is the most versatile PC. If the user is mobile, a laptop PC is the most versatile PC. If a person is stationary and mobile,
+they generally have a desktop and a laptop PC.
+
+The pros of a desktop are the ease of upgrading components in the larger housing, larger display(s), full-size keyboard, and
+mouse. All great advantages for stationary users. However, if the user is mobile, the pros become the cons. It is difficult to
+transport the larger desktop housing and the external larger display(s), full-size keyboard, and mouse. Thus, the laptop PC. The
+laptop was developed for mobility.
+
+The pro of a laptop is the smaller size of the housing and its internal display, keyboard, and touchpad. However, like the desktop,
+the pro becomes the con. The smaller size of the housing and its internal display, keyboard, and touchpad are not as user-friendly
+when compared to a desktop.
+
+Accounting Analytics professional personnel are both stationary and mobile. They prefer the stationary advantages of a desktop
+and the mobility advantage of a laptop. Therefore, to obtain both advantages, our professionals have larger displays, full-size
+keyboards, and mice where they are most stationary (at the office for some and at home for others), and a laptop for when
+mobile.
+
+Instead of investing in a desktop and a laptop, our professionals only invest in a laptop. However, when stationary, they connect
+their laptop to a docking station or dock to obtain the advantages of a desktop.
+
+When some individuals think of a docking station, they think of the old, clunky docking stations where they insert and encase their
+laptops into the docking stations. However, today’s docking stations are external devices that connect their laptops to their
+peripheral devices with a single connection cable.
+
+Dual Monitors
+
+To maximize productivity, a bookkeeper should use a dual monitor setup. This involves having two monitors set up and used
+simultaneously side-by-side. Doing this makes it much easier to organize, manage, and perform work by being able to display
+multiple programs or pages at a time.
+
+We use dual monitors to use an application on the right and reference the documentation on the left. For example, when
+performing a bank reconciliation, we display the QuickBooks Reconcile page on the right monitor and the bank statement on the
+left, allowing us to reference the bank statement as we perform the reconciliation.
+
+‘With Windows 10, you can do this with one monitor splitting the screen, but you have limited visibility.
+Additional advantages of using dual monitors include:
+
+Increased productivity
+Reduction in errors
+Using two applications simultaneously
+
+Sharing data between applications
+
+ow Ne
+
+Comparing data on one monitor to data on the other monitor
+
+It is also helpful to have dual monitors that allow you to adjust the monitors from a horizontal to a vertical position when viewing
+certain documentation such as a tax return.
+
+Cloud Computing
+
+Cloud computing is the ability to access, store, manage, and process data on a network of remote servers (data centers) hosted
+on the Internet, rather than on a personal computer or local server. The Cloud is a metaphor for the Internet. Cloud computing is
+storing and accessing applications and data over the Internet instead of your computer's hard drive. The user accesses the Cloud
+via an Internet-connected device such as a computer, tablet, or phone. For example, QuickBooks Online is a Cloud-based
+application. You access the application and manage and process your stored company data through an Internet-connected
+device.
+
+The benefits of Cloud computing are as follows:
+
+« Safe storage (never losing data to hardware issues or disasters)
+
+« Ease of access (access the application and data at any time and from anywhere with any Internet-connected device)
+« Shared access (share your application and data with associates or clients)
+
+« Up-to-date software (when you access Cloud software, it is the latest version)
+
+« Little to no maintenance or hardware costs.
+
+Microsoft 365
+
+Microsoft 365 (formerly Microsoft Office 365) is a cloud-based subscription service that combines Word (word processing), Excel
+(spreadsheets), Outlook (email), and PowerPoint (presentations), with OneDrive (Cloud-based file storage service). The
+subscription allows users to create and share documents at any time and anywhere on any device.
+
+Microsoft 365 has two subscription plan categories: Home and Business. Home has Family (up to 6 people) and Personal (1
+person) subscriptions. The business has Basic, Standard, and Premium subscriptions. The most popular and best-value
+subscription is Family. The Family subscription is $99.99 per year or $9.99 per month. The Personal subscription is $69.99 per year
+or $6.99 per month. The Basic subscription is $5 per month. The Standard subscription is $12.50 per month. The Premium
+subscription is $20 per month.
+
+Microsoft 365 Cloud-based subscriptions include all the Cloud-computing benefits discussed above.
+
+You can subscribe to Microsoft 365 at https://www.microsoft.com/en-us/microsoft-365.
+
+eCommerce Website
+
+A website is a collection of web pages of codes that describe the layout, format, and content on a page. A website resides on a
+web server. A web server is an Internet-connected computer that receives a request for a web page sent by a web browser. A web
+browser connects your device to the web server through an IP (Internet Protocol) address
+
+An eCommerce website is a website with eCommerce functionality that allows customers or clients to purchase and pay for
+products or services via the Internet.
+
+Your website should increase your sales and receipts. It should also integrate with your accounting system so you can gather,
+record, and classify sale and receipt transactions and your accountant can analyze, summarize, interpret, and communicate sales
+and receipt information.
+
+Online Bank and Credit Card Accounts
+
+Online bank and credit card accounts allow you to access, manage, and process your bank and credit card accounts with an
+Internet-connected device such as a computer, tablet, or phone.
+
+Online banking allows you to:
+
+« View current and past transactions
+« Check your balances
+
+« View current and previous bank statements
+« Deposit checks
+
+« Transfer funds
+
+« Pay bills
+
+* Import transactions into QuickBooks Online
+
+Online credit cards allow you to:
+
+« View current and past transactions
+« Check your balances
+
+« View current and previous credit card statements
+« Pay your bil
+
+« View your rewards balance
+
+« Report lost or stolen credit cards
+
+* Import transactions into QuickBooks Online
+
+Most banks and credit card companies allow customers to access their bank and credit card accounts via the Internet and
+connect to QuickBooks Online.
+
+Online bank and credit card accounts include all the Cloud-computing benefits discussed above.
+
+Bookkeeping Tools
+
+Note: The Guide assumes you are using QuickBooks Online and QuickBooks Online Payments (formally QuickBooks
+Merchant Account). QuickBooks Online and QuickBooks Online Payments are the leading bookkeeping and payment
+applications.
+
+QuickBooks Online
+
+Note: In this Guide, when we refer to “QuickBooks”, we are referring to QuickBooks Online.
+
+QuickBooks is a Cloud-based application that allows you to access, store, manage, and process your company’s bookkeeping and
+accounting at any time and from anywhere with an Internet-connected device. The features of QuickBooks allow you to access,
+store, manage, and process your bank and credit card accounts, sales and receipts, purchases and payments, payroll and 1099s,
+and financial reports.
+
+QuickBooks has several subscription plans: Simple Start, Essentials, and Plus. The most popular plan is Plus. The Plus monthly
+subscription is $70.
+
+QuickBooks includes all the Cloud-computing benefits discussed above.
+
+Note: Accounting Analytics’ bookkeeping service fee includes the QuickBooks monthly subscription.
+
+QuickBooks Online Payments
+
+QuickBooks Online Payments (formerly QuickBooks Merchant Account) is a Cloud-based application that allows you or your
+customers (when making online invoice payments) to access, store, manage, and process your company’s sales receipts including
+invoice, phone, mobile, and recurring payments at any time and from anywhere with an Internet-connected device.
+
+QuickBooks Online Payments is 2.4% (swiped), 2.9% (invoiced), and 3.4% (Keyed) plus 25 cents per transaction and 1% per bank
+transfer or eCheck (ACH). You can save up to 40% on monthly payments amounts over $7,500.
+
+QuickBooks Online Payments integrates with your QuickBooks account and can be accessed directly or through your QuickBooks
+account.
+
+QuickBooks Online Payments includes all the Cloud-computing benefits discussed above.
+
+Payroll Tools
+
+Note: The Guide assumes you are using QuickBooks Online Payroll. QuickBooks Online Payroll is the leading payroll
+application.
+
+QuickBooks Online Payroll
+
+Note: In this Guide, when we refer to “QuickBooks Payroll”, we are referring to QuickBooks Online Payroll.
+
+QuickBooks Online Payroll is a Cloud-based application that allows you to access, store, manage, and process your company’s
+payroll at any time and from anywhere with an Internet-connected device. The features of QuickBooks Online Payroll allow you to
+access, store, manage, and process your employees’ payroll, benefits, tax reports, and tax payments; and contractor 1099 forms
+and reports.
+
+QuickBooks Online Payroll has three subscription plans: Core, Premium, and Elite. The Core plan has a monthly subscription of $45
+plus $4 per employee/contractor payment and includes the necessary features to process your payroll. The Guide uses the Core
+subscription plan.
+
+QuickBooks Online Payroll includes all the Cloud-computing benefits discussed above.
+
+QuickBooks Online Payroll is different than Intuit Online Payroll. QuickBooks Online Payroll integrates with your QuickBooks
+account; Intuit Online Payroll doesn't and is used as a stand-alone subscription.
+
+Note: Accounting Analytics’ payroll fee includes the QuickBooks Online Payroll subscription.
+
+This guide does not cover the use of payroll tools. To learn how to integrate QuickBooks Online Payroll into the Accounting
+Analytics Accounting System, refer to the Accounting Analytics Payroll with QuickBooks Online Payroll guide.
+
+Accounting Tools
+
+Note: The Guide assumes your accountant is using QuickBooks Online Accountant. QuickBooks Online Accountant is the
+leading accounting application.
+
+QuickBooks Online Accountant
+
+Note: In this Guide, when we refer to “QuickBooks Accountant”, we are referring to QuickBooks Online Accountant.
+
+QuickBooks Accountant is a Cloud-based application that allows accounting firms to access, store, manage, and process their
+QuickBooks accounts at any time and from anywhere with an Internet-connected device. The features of QuickBooks Accountant
+also allow accounting firms to access, store, manage, and process their clients’ bookkeeping, payroll, accounting, business
+analysis, and taxes.
+
+Accounting Analytics uses QuickBooks Accountant to:
+
+1. Perform our bookkeeping, payroll, accounting, business analysis, and tax preparation
+2. Manage, support, and supervise our professional staff
+3. Manage, support, and supervise our clients’ bookkeepers
+
+4. Perform our clients’ accounting, business analysis, and tax preparation
+
+QuickBooks Accountant includes all the Cloud-computing benefits discussed above.

@@ -1,0 +1,97 @@
+## 6-1 Journalize and post closing entries.
+
+Journalizing and posting the closing entries is the seventh step in the accounting cycle. Closing entries transfer the results of operations to owner’s equity and reduce the balances of the revenue and expense accounts to zero. The worksheet provides the data necessary for the closing entries. A temporary owner's equity account, Income Summary, is used. 
+
+**There are four steps in the closing process**:
+
+### 1. The **Revenue** account is **transferred** to the **Income Summary** account.
+
+Debit Revenue
+
+Credit Income Summary
+
+### 2. **All Expense** accounts are **transferred** to the **Income Summary** account.
+
+Debit Income Summary
+
+Credit Expenses
+
+### 3. The balance of the Income Summary account—net income or net loss—is transferred to the owner’s capital account.
+
+If {NET LOSS or Income Summary has a credit balance}:
+
+Debit Income Summary
+
+ Credit Owner’s Capital
+
+If {NET INCOME or Income Summary has a debit balance}:
+
+Debit Owner's Capital
+
+ Credit Income Summary
+
+### 4. The drawing account is closed to the owner’s capital account.
+
+Debit Owner’s Capital
+
+Credit Drawing
+
+- After the closing entries have been posted, the capital account reflects the Net Gain or Loss of operations for that period. 
+
+- The revenue and expense accounts, with zero balances, are ready to accumulate data for the next period.
+
+## 6-2 Prepare a postclosing trial balance.
+
+Preparing the postclosing trial balance is the eighth step in the accounting cycle. A postclosing trial balance is prepared to test the equality of total debit and credit balances in the general ledger after the adjusting and closing entries have been recorded. This report lists only permanent accounts open at the end of the period—asset, liability, and the owner’s capital accounts. The temporary accounts—revenue, expenses, drawing, and Income Summary—apply only to one accounting period and do not appear on the postclosing trial balance.
+
+## 6-3 Interpret financial statements.
+
+The ninth step in the accounting cycle is interpreting the financial statements. Business decisions must be based on accurate and timely financial information.
+
+## 6-4 Review the steps in the accounting cycle.
+
+The accounting cycle consists of a series of steps that are repeated in each fiscal period. These steps are designed to classify, record, and summarize the data needed to produce financial information.
+
+The steps of the accounting cycle are:
+
+1. Analyze transactions.
+
+2. Journalize the transactions.
+
+3. Post the journal entries.
+
+4. Prepare a worksheet.
+
+5. Prepare financial statements.
+
+6. Journalize and post adjusting entries.
+7. Journalize and post closing entries.
+8. Prepare a postclosing trial balance.
+9. Interpret the financial information.
+
+Define the accounting terms new to this chapter.
+
+
+
+---
+
+### Table of examples
+
+| Type | Setup | Adjustment |
+|:-----|:------|:-----------|
+| Pre-paid expense/asset | pre-paid Act-asset<br>&nbsp;&nbsp;cash| Act expense<br>&nbsp;&nbsp;pre-paid Act-Asset|
+| Depreciation expense | LT (asset) Act<br>&nbsp;&nbsp;cash| Depreciation expense<br>&nbsp;&nbsp;Asset-Depreciation|
+| Accrued expense | | Act expense<br>&nbsp;&nbsp;Act payable|
+| Accrued revenue | | Act receivable<br>&nbsp;&nbsp;Act revenue|
+| Deferred revenue | | Deferred revenue<br>&nbsp;&nbsp;Act revenue|
+
+### Adjustment Type
+
+| Type | Account Debited | Account Credit | Description | Example |
+|:-----|:----------------|:-----------------|:------------|:--------|
+| Prepaid Exp/Asset | Pre-paid Expense (asset) | Expense | Expenses are paid in advance but may not be used up. | Auto insurance is prepaid for a yr but may not be used up by end of yr. |
+| Depreciation Exp. | Depreciation Expense | Accumulated Depreciation<br>(Contra-Asset) | Allocates the accumulated cost Depreciation of an asset over a period. | Cars depreciate over time and that expense is deducted from its value. |
+| Accrued Exp. | Expense | Accrued Expense (Liability) | Recognizes expenses incurred but not yet paid. | Record $200 of accrued utility expense for the month. |
+| Unearned/Accrued Rev. | Revenue | Accrued Revenue (Asset) | Recognizes revenue earned as if it were A/R | Work is done ahead of time and then billed sometime later. |
+| Deferred Rev. | Deferred Revenue | Revenue | Recognizes cash payment BEFORE work is done. | Tuition for uni is a de |
+

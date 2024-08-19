@@ -1,0 +1,67 @@
+cash discount
+cost of goods sold
+Freight In Account
+purchase allowance
+purchase invoice
+purchase order
+purchase requisition
+purchase return
+Purchases account
+purchases discount
+Purchases Returns and Allowances
+receiving report
+sales discount
+sales invoice
+Transportation In Account
+
+---
+
+- Cash discount: A reduction in the price of a good or service given to a customer for paying their bill promptly.
+  
+- Cost of goods sold (COGS): The direct costs associated with producing the goods or services sold by a business during a specific period.
+ 
+- Freight In account: An account used to record the cost of transporting goods purchased from a supplier to the buyer's location.
+
+- Purchase Allowance: A reduction in the invoice price of goods purchased due to factors like damage, defects, or incorrect quantities.
+
+- Purchase invoice: A document sent by a seller to a buyer that details the items purchased, their quantities, and the total amount due.
+
+
+- Purchase order: A formal document sent by a buyer to a seller that specifies the items to be purchased, their quantities, and the agreed-upon price.
+ 
+
+- Purchase requisition: An internal document used by a department within a company to request the purchase of goods or services.
+  
+
+- Purchase return: The return of goods to a seller by a buyer, typically due to damage, defects, or incorrect quantities.
+ 
+
+- Purchases Account: A general ledger account that records the total cost of goods purchased by a business during a specific period.
+ 
+
+- Purchases discount: A reduction in the price of goods purchased received by a buyer for paying their bill early.
+  
+
+Purchases Returns & Allowances Account: A general ledger account used to record purchase allowances and purchase returns.
+  
+
+- Receiving report: A document used to document the quantity and condition of goods received from a supplier.
+  
+
+- Sales discount: A reduction in the price of a good or service offered by a seller to a customer for paying their bill promptly.
+ 
+
+- Sales invoice: A document sent by a seller to a buyer that details the items sold, their quantities, and the total amount due.
+  
+
+- Transportation In account: Similar to the Freight In account, this account is used to record the cost of transporting goods sold from the seller's location to the buyer's location.
+  
+
+Accounts payable ledger: A subsidiary ledger that contains a separate account for each creditor
+
+
+Schedule of accounts payable: A list of all balances owed to creditors
+
+
+
+

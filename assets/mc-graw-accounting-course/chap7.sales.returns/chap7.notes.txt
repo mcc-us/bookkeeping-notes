@@ -1,0 +1,240 @@
+# chap 7 NEW TERMS
+
+Title: Accounting for sales, accounts receivable & cash receipts
+
+
+accounts receivable ledger
+contra revenue account
+control account
+credit memorandum
+credit terms
+list price
+manufacturing business
+merchandise inventory
+merchandising business
+net sales
+open-account credit
+periodic inventory system
+perpetual inventory system
+retail business
+sales allowance
+Sales Discounts
+sales return
+Sales Returns and Allowances
+schedule of accounts receivable
+service business
+subsidiary ledger
+trade discount
+wholesale business
+
+
+1. Service business
+A business that sells services
+
+2. Merchandising business
+A business that sells goods purchased for resale
+
+3. Manufacturing business
+A business that sells goods that it has produced
+
+
+Subsidiary ledger
+A ledger dedicated to accounts of a single type and showing details to support a general ledger account
+
+
+
+Retail business
+A business that sells directly to individual consumers
+
+---
+
+Periodic inventory system
+An inventory system in which the merchandise inventory balance is only updated when a physical inventory is taken
+
+
+
+Perpetual inventory system
+An inventory system that tracks the inventories on hand at all times
+
+---
+
+## REcording sales with sales tax payable for cash and on account
+
+
+
+## Recording sales returns and sales allowances
+
+
+
+Credit memorandum
+A note verifying that a customer’s account is being reduced by the amount of a sales return or sales allowance plus any sales tax that may have been involved
+
+
+Sales allowance
+A reduction in the price originally charged to customers for goods or services
+
+
+Sales Returns and Allowances
+A contra revenue account where sales returns and sales allowances are recorded; sales returns and allowances are subtracted from sales to determine net sales
+
+
+Contra revenue account
+An account with a debit balance, which is contrary to the normal balance for a revenue account
+
+
+
+## Credit Policies
+
+
+
+## Accounting for different types of credit sales
+
+Open-account credit
+A system that allows the sale of services or goods with the understanding that payment will be made at a later date
+
+
+## Accounting for credit card sales
+
+\
+
+Accounts receivable ledger
+A subsidiary ledger that contains credit customer accounts
+
+
+Control account
+An account that links a subsidiary ledger and the general ledger because its balance summarizes the balances of the accounts in the subsidiary ledger
+
+
+Credit terms
+Terms for payment on credit by buyer to seller
+
+List price
+An established retail price
+
+
+Net sales
+The difference between the balance in the Sales account and the balance in the Sales Returns and Allowances account
+
+
+Sales Discounts
+A contra revenue account where early payment discounts are recorded
+
+
+Schedule of accounts receivable
+A listing of all balances of the accounts in the accounts receivable subsidiary ledger
+
+
+# Section 2
+17:10
+
+Trade discount
+A reduction from list price
+the amount of sales revenue recorded is the list price minus the trade discount.
+
+Wholesale business
+A business that manufactures goods for or distributes goods to retail businesses or large consumers such as hotels and hospitals
+
+
+## CAsh discounts on sales
+
+discounts ddpend on paying within a set period of time, refered to as Credit terms
+
+
+sales discounts are recorded ina contra revenue!
+
+## CAsh discounts on sales with sales returns
+21:12
+
+## Reproting Net sales
+21:48
+
+## Accounts receivable ledger
+23:01
+
+Term
+Accounts receivable ledger
+A subsidiary ledger that contains credit customer accounts
+
+
+term 
+Control account
+An account that links a subsidiary ledger and the general ledger because its balance summarizes the balances of the accounts in the subsidiary ledger
+
+
+each customer has its own balance ledger that holds the purchases and all information needed. 
+
+See Adding customers inside QBO!
+
+
+## Schedule of accounts receivable
+25:30
+
+term
+Schedule of accounts receivable
+A listing of all balances of the accounts in the accounts receivable subsidiary ledger
+
+
+## Sales taxes
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

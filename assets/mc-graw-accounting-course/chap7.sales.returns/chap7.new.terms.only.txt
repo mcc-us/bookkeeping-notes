@@ -1,0 +1,177 @@
+# chap 7 NEW TERMS
+
+-accounts receivable ledger
+-contra revenue account
+-control account
+-credit memorandum
+-credit terms
+-list price
+-manufacturing business
+-merchandise inventory
+-merchandising business
+-net sales
+-open-account credit
+-periodic inventory system
+-perpetual inventory system
+-retail business
+-sales allowance
+-Sales Discounts
+-sales return
+-Sales Returns and Allowances
+-schedule of accounts receivable
+-service business
+-subsidiary ledger
+-trade discount
+-wholesale business
+
+
+-Service business
+A business that sells services
+
+-Merchandising business
+A business that sells goods purchased for resale
+
+-Manufacturing business
+A business that sells goods that it has produced
+
+
+-Subsidiary ledger
+A ledger dedicated to accounts of a single type and showing details to support a general ledger account
+
+
+-List price: The suggested or manufacturer's recommended retail price for a product.
+
+-Credit terms: The specific conditions for credit sales, including the length of time a customer has to pay and any applicable penalties for late payments.
+
+-Schedule of accounts receivable: A detailed listing of individual customer accounts receivable balances, often used for aging analysis.
+
+-Trade discount: A reduction in the list price offered by a manufacturer or wholesaler to a reseller, typically for buying in bulk.
+
+-----
+Pick up from here down;
+
+-Retail business
+A business that sells directly to individual consumers
+
+
+Periodic inventory system
+An inventory system in which the merchandise inventory balance is only updated when a physical inventory is taken
+
+-Sales Discounts: A reduction in the price offered to a customer in exchange for early payment of an invoice. Unlike trade discounts, sales discounts are recorded as a contra revenue account, meaning they decrease revenue and are eventually subtracted from the Sales account to arrive at net sales
+
+-Perpetual inventory system
+An inventory system that tracks the inventories on hand at all times
+
+
+-Credit memorandum
+A note verifying that a customer’s account is being reduced by the amount of a sales return or sales allowance plus any sales tax that may have been involved
+
+
+-Sales allowance
+A reduction in the price originally charged to customers for goods or services
+
+
+-Sales Returns and Allowances
+A contra revenue account where sales returns and sales allowances are recorded; sales returns and allowances are subtracted from sales to determine net sales
+
+
+-Contra revenue account
+An account with a debit balance, which is contrary to the normal balance for a revenue account
+
+
+-Open-account credit
+A system that allows the sale of services or goods with the understanding that payment will be made at a later date
+
+
+
+
+-Accounts receivable ledger
+A subsidiary ledger that contains credit customer accounts
+
+
+-Control account
+An account that links a subsidiary ledger and the general ledger because its balance summarizes the balances of the accounts in the subsidiary ledger
+
+
+-Credit terms
+Terms for payment on credit by buyer to seller
+
+-List price
+An established retail price
+
+
+-Net sales
+The difference between the balance in the Sales account and the balance in the Sales Returns and Allowances account
+
+
+-Sales Discounts
+A contra revenue account where early payment discounts are recorded
+
+
+-Schedule of accounts receivable
+A listing of all balances of the accounts in the accounts receivable subsidiary ledger
+
+
+-Trade discount
+A reduction from list price
+
+
+-Wholesale business
+A business that manufactures goods for or distributes goods to retail businesses or large consumers such as hotels and hospitals
+
+
+
+-Wholesale business
+A business that manufactures goods for or distributes goods to retail businesses or large consumers such as hotels and hospitals
+
+
+-Trade discount
+A reduction from list price
+
+
+-List price
+An established retail price
+
+
+
+-trade discount
+the amount of sales revenue recorded is the list price minus the trade discount
+
+
+-Credit terms
+Terms for payment on credit by buyer to seller
+
+-Sales Discounts
+A contra revenue account where early payment discounts are recorded
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
