@@ -9,7 +9,7 @@ A. The first adjusting entry
 
 Journal Entry:
 
-> Dr Merchandise Inventory/Supplies 250 (records purchase)    
+> Dr Merchandise Inventory/Supplies 250 (records purchase)
 > &nbsp;&nbsp;&nbsp;&nbsp; Cr A/P 250 (records money owed to creditor)
 {: .block-tip }
 
@@ -27,8 +27,7 @@ Here's why:
 
 Therefore, the first adjusting entry specifically addresses removing the beginning inventory from the books.
 
-
-#### please give an example debit/credit transaction statement
+### please give an example debit/credit transaction statement
 
 A. Debit/Credit Transaction Example: Office Supplies Purchase
 
@@ -40,7 +39,7 @@ Scenario:
 
 Journal Entry:
 
-> Dr Office Supplies 250 (records purchase)    
+> Dr Office Supplies 250 (records purchase)
 > &nbsp;&nbsp;&nbsp;&nbsp; Cr A/P 250 (records money owed to creditor)
 {: .block-tip }
 
@@ -53,5 +52,3 @@ Key Points:
 
 - This transaction increases an asset (office supplies) and creates a liability (accounts payable) with corresponding debits and credits.
 - Remember, debits typically increase asset and expense accounts, while credits increase liability and equity accounts.
-
-

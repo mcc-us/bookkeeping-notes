@@ -13,7 +13,7 @@ QBO Test drive - [https://qbo-intuit.com/redir/testdrive](https://qbo.intuit.com
 
 - QBO, How to Add...:
 
-![List of Actions](/bookkeeping/assets/calvin.lee.udemy/QBO-adding-new.png)
+![List of Actions](./assets/calvin.lee.udemy/QBO-adding-new.png)
 
 
 ## Section 2: Using QBO
@@ -21,12 +21,12 @@ QBO Test drive - [https://qbo-intuit.com/redir/testdrive](https://qbo.intuit.com
 The Chart of Accounts: adding accounts in QBO
 
 1. Access the Chart Of Accounts:
-   - On the left panel, select Menu>Transactions>Chart of Accounts>New(top-right)
+   - On the left panel, select Menu > Transactions > Chart of Accounts > New(top-right)
 
 1. Tags for categorization
 
 1. Access reports such as the Profit & Loss Statement:
-   - On the left panel, select Reports>Reports
+   - On the left panel, select Reports > Reports
 
 ## Section 3: Customers
 
@@ -34,25 +34,25 @@ The Chart of Accounts: adding accounts in QBO
 {: .block-tip }
 
 1. Creating Customers And Maintaining Customer Information:
-   - On the left panel, select Sales>Customers
+   - On the left panel, select Sales > Customers
 
 1. Create a Customer Invoice And Email It!:
-   - On the left panel, select “+ New”>Invoice
+   - On the left panel, select "+ New" > Invoice
 
 1. Create a Sales Receipt:
-   - On the left panel, select “+ New”>Customers>Sales Receipt
+   - On the left panel, select "+ New" > Customers>Sales Receipt
 
 1. Create Estimate:
-   - On the left panel, select “+ New”>Customers>Estimate
+   - On the left panel, select "+ New" > Customers>Estimate
 
 1. Create a Credit Memo For adjusting bills using a new separate invoice:
-   - On the left panel, select “+ New”>Customers>Estimate
+   - On the left panel, select "+ New" > Customers>Estimate
 
 1. How to Receive Payment from Customer:
-   - On the left panel, select “+ New”>Customers>Estimate
+   - On the left panel, select "+ New" > Customers>Estimate
 
 1. Create Sales Receipt:
-   - On the left panel, select “+ New”>Customers>Sales Receipt
+   - On the left panel, select "+ New" > Customers>Sales Receipt
 
 ## Section 4: Suppliers / Vendors
 
@@ -60,24 +60,24 @@ The Chart of Accounts: adding accounts in QBO
    - On the left panel, select Expenses>Suppliers
 
 1. Create a Bill From A Vendor:
-   - On the left panel, select “+ New”>Bill
+   - On the left panel, select "+ New" > Bill
 
 1. Record a Payment To A Supplier:
-   - On the left panel, select “+ New”>Pay bills
+   - On the left panel, select "+ New" > Pay bills
 
 1. See the Gear Icon on top-right gives additional settings
 
 1. Create Product Lines & Services Lines to sell:
-    - On the left panel, select Sales>Product and Services>New (top-right-green button) Allows you to set up $/hr.
+    - On the left panel, select Sales>Product and Services > New (top-right-green button) Allows you to set up $/hr.
 
 1. How to Input A Bill From A Supplier:
-   - On the left panel, select “+ New”>Vendors>Bill, set the bill number from the invoice, choose the category of the expense,
+   - On the left panel, select "+ New” > Vendors > Bill, set the bill number from the invoice, choose the category of the expense,
 
 1. Recording Payment To A Supplier:
-   - On the left panel, select “+ New”>>Vendors>Pay Bills, 
+   - On the left panel, select "+ New” > Vendors > Pay Bills,
 
 1. Recording an Expense in QuickBooks;
-   - On the left panel, select “+ New”>Vendors>Expense, 
+   - On the left panel, select "+ New” > Vendors > Expense,
 
 ## Section 5: Reconciling Bank Act
 
@@ -88,10 +88,10 @@ The Chart of Accounts: adding accounts in QBO
 - It is possible to upload receipts from your computer or phone or even have the receipts sent to an email address.
 
 1. Recording a Bank Feed - Linking Your Bank Account To QBO:
-   - On the left panel, select “+ New”>Bank Transactions>Link Account>Choose Bank>...
+   - On the left panel, select "+ New" > Bank Transactions>Link Account>Choose Bank>...
 
 2. Recording a Bank Feed - Adding Bank Transactions To QBO:
-   - On the left panel, select “+ New”>Vendors>Expense, 
+   - On the left panel, select "+ New" > Vendors>Expense,
 
 3. How to Reconcile Bank Acts:
    - First, obtain bank statement; on the top-right gear, Tools>Reconcile>Enter $ and dates
@@ -110,7 +110,6 @@ The Chart of Accounts: adding accounts in QBO
 
 1. Adding an employee
    - On the left panel, select Payroll/Employee/Add an Employee/Pay or Profile or Employment / Add info /Save
-   
 1. Running Payroll in QBO
    - On the left panel, select Payroll/Employees/Run Payroll (On Right), and pay by paper check or direct deposit.
 

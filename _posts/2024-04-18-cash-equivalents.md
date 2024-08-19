@@ -10,7 +10,7 @@ title: Cash Equivalents Question
 3. A note receivable from a customer with a maturity of six months
 4. A note receivable from a customer with a maturity of three months"
 
-**The correct answer is 2.** 
+**The correct answer is 2.**
 
 Here's why:
 
@@ -25,4 +25,3 @@ In this scenario:
 - Option 1 (6-month CD): While a CD is still considered an investment, a 6-month CD doesn't meet the criteria of maturing within three months or less.
 
 - Option 3 & 4 **(Notes receivable): Notes receivable are promissory notes issued by customers, promising to pay a certain amount at a future date.  These are not considered cash equivalents because they can be less liquid than CDs and might have a risk of non-payment by the customer.**
-

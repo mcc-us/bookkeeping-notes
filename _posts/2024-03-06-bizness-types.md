@@ -13,15 +13,14 @@ We need to understand three major types of businesses. This tells the accountant
 > Do not pierce the corporate veil.
 {: .block-danger }
 
-### 1. Sole Proprietor 
+### 1. Sole Proprietor
 
 - One owner is solely responsible to all debts and taxes.
 - Separate entity assumption - 'keep company and personal finances separate.
-  - 
 - Business dies when owner does or when sold
 - Easy to form: 'DBA'-Doing Business As
 
-### 2A. Partnerships 
+### 2A. Partnerships
 
 - Partners decide break down of all rights, obligation and limitations in the company beforehand
 - $ or % initially contributed
@@ -54,39 +53,39 @@ We need to understand three major types of businesses. This tells the accountant
 ## LLC v. LLP
 
 **Key differences between:**  
-- Limited Liability Partnerships Vs. Limited Liability Company  
+- Limited Liability Partnerships Vs. Limited Liability Company
 
-### Structure:
+### Structure
 
-- LLP: **Partners share profits and losses according to predefined agreements**. They are typically formed by professionals like lawyers, accountants, or doctors.   
+- LLP: **Partners share profits and losses according to predefined agreements**. They are typically formed by professionals like lawyers, accountants, or doctors.
 
-- LLC: **Offers more flexibility, allowing for both partnership and corporate-like characteristics**. Members can choose to share profits and losses proportionally or based on specific agreements, similar to an LLP, or elect for fixed shares, like in a corporation.   
+- LLC: **Offers more flexibility, allowing for both partnership and corporate-like characteristics**. Members can choose to share profits and losses proportionally or based on specific agreements, similar to an LLP, or elect for fixed shares, like in a corporation.
 
-### Liability:  
+### Liability
 
-- LLP: **Partners can still be held liable for their own negligence or malpractice.** Partners have limited liability for the partnership's debts and obligations.    
+- LLP: **Partners can still be held liable for their own negligence or malpractice.** Partners have limited liability for the partnership's debts and obligations.
 
 - LLC: **Members enjoy limited liability for the LLC's debts and obligations, regardless of their individual actions** or negligence (except in rare cases of piercing the corporate veil).  
 
-### Management and Governance:   
+### Management and Governance
 
-- LLP: **Typically managed by partners** who share decision-making responsibilities. Some states may require specific governance structures, such as managing partners.   
+- LLP: **Typically managed by partners** who share decision-making responsibilities. Some states may require specific governance structures, such as managing partners.
 
-- LLC: **Can be managed by members, managers (appointed by members), or a combination**. LLC operating agreements outline management structure and decision-making processes.   
+- LLC: **Can be managed by members, managers (appointed by members), or a combination**. LLC operating agreements outline management structure and decision-making processes.
 
-### Taxation:   
+### Taxation
 
-- LLP: Profits and losses pass through to partners' individual tax returns, **avoiding double taxation**. LLPs are treated as partnerships for tax purposes.    
-- LLC: **LLC can elect corporate taxation status if desired**. Offering flexibility in choosing taxation. By default, LLCs are also taxed as partnerships.  This can be beneficial for larger LLCs or those with substantial profits.   
+- LLP: Profits and losses pass through to partners' individual tax returns, **avoiding double taxation**. LLPs are treated as partnerships for tax purposes.
+- LLC: **LLC can elect corporate taxation status if desired**. Offering flexibility in choosing taxation. By default, LLCs are also taxed as partnerships.  This can be beneficial for larger LLCs or those with substantial profits.
 
 ### Other Considerations:
 
 - Transferability of Ownership:    
-  - **LLPs may have restrictions on transferring ownership interests**, while   
-  - **LLCs generally offer more flexibility in transferring membership** interests.   
+  - **LLPs may have restrictions on transferring ownership interests**, while
+  - **LLCs generally offer more flexibility in transferring membership** interests.
 
-- Formation and Maintenance:   
-  - LLPs may have specific formation and ongoing regulatory requirements depending on the profession or state.   
+- Formation and Maintenance:
+  - LLPs may have specific formation and ongoing regulatory requirements depending on the profession or state.
   - LLCs generally require less paperwork and ongoing formalities.  
 
 
@@ -94,11 +93,11 @@ We need to understand three major types of businesses. This tells the accountant
 
 Test: types of business entities and their dis/advantages
 
-Place the letter associated with the advantage or disadvantage of each entity in the column associated with that entity. 
+Place the letter associated with the advantage or disadvantage of each entity in the column associated with that entity.
 
 
 <div class="pdf-container">
-    <iframe src="/bookkeeping/assets/mc-graw-accounting-course/biz.entities.test.pdf" title="business-types-test" height="400" width="712" allowfullscreen="true">
+    <iframe src="./assets/mc-graw-accounting-course/biz.entities.test.pdf" title="business-types-test" height="400" width="712" allowfullscreen="true">
     </iframe>
 </div>
 
@@ -125,7 +124,7 @@ o. More government regulation <br>
 |-----------------|------------|---------------|
 | Sole Proprietor | | |
 | Partnerships    | | |
-| Limited Liabilites Partnerships | | |
+| Limited Liabilities Partnerships | | |
 | Limited Liability Company | | |
-| Coroporation    | | |
+| Corporation    | | |
 | S-Corporation   | | |

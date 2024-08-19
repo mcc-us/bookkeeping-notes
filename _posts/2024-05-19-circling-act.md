@@ -4,12 +4,12 @@ title: Circling Accounts
 ---
 
 
-Q. a balance that is circled in the accounts payable ledger is:   
+Q. a balance that is circled in the accounts payable ledger is:
 
-1. a credit balance   
-2. a debit balance   
-3. a negative balance   
-4. a zero balance   
+1. a credit balance
+2. a debit balance
+3. a negative balance
+4. a zero balance
 
 Answer: 2. a debit balance.  
 
@@ -19,7 +19,7 @@ Answer: 2. a debit balance.
 
 - Accounts Payable: This account represents the money a company owes to suppliers for goods or services purchased on credit. By convention, accounts payable accounts have debit balances.   
 
-- Credit Purchases: When a company makes a credit **purchase**, the Purchase/Accounts Payable account is increased on the debit side to reflect the amount owed.   
+- Credit Purchases: When a company makes a credit **purchase**, the Purchase/Accounts Payable account is increased on the debit side to reflect the amount owed.
 
 - Purpose of Circling: Highlighting a balance with a circle could indicate it's an outstanding amount that needs to be paid to the supplier.  
 
@@ -30,4 +30,3 @@ Answer: 2. a debit balance.
 - Negative Balance: negative balances aren't typical. A negative balance might suggest an error or a situation where the company has overpaid a supplier.  
 
 - Zero Balance: A zero balance in accounts payable simply means the company has no outstanding obligations to suppliers at that particular moment.
-

@@ -6,11 +6,10 @@ title: Chap9-Cash Cont.
 
 ### 5. Internal Controls for Petty Cash  
 
-
 1. **One person is in charge** of the `petty cash analysis/sheet` fund & expenditures.
-   1. This person has sole control, and is the only one authorized to make payments to/from the fund.   
+   1. This person has sole control, and is the only one authorized to make payments to/from the fund.
 
-2. Write petty cash fund checks to the person in charge of the fund, **NOT CASH.**   
+2. Write petty cash fund checks to the person in charge of the fund, **NOT CASH.**
 
 3. Limit the petty cash amount to cover ~1 month.
 
@@ -21,16 +20,15 @@ title: Chap9-Cash Cont.
 6. Use petty cash only for small payments where checks cannot be conveniently made.
 
 7. Keep all Receipts & Change
-   
 
 **MORE Cash Controls**
 
-Cash is most easily stolen, lost, or mishandled. It is important to protect all cash receipts to make sure that funds are available to pay expenses and other obligations. 
+Cash is most easily stolen, lost, or mishandled. It is important to protect all cash receipts to make sure that funds are available to pay expenses and other obligations.
 
 **The following are essential cash receipt controls:**
 
 1. Have only designated employees receive and handle cash,
-   1. Consisting of checks and money orders, or currency and coins. 
+   1. Consisting of checks and money orders, or currency and coins.
 
 2. Choose employees should be carefully chosen for reliability and accuracy and should be carefully trained.
    1. Some businesses **bond** employees. Bonding is insuring a person.
@@ -38,7 +36,7 @@ Cash is most easily stolen, lost, or mishandled. It is important to protect all 
 
 3. Keep cash receipts in a cash register, a locked cash drawer, or a safe.
 
-4. The use of a cash register provides an effective means of control, 
+4. The use of a cash register provides an effective means of control,
    1. Tape showing the amounts. 
    2. Tape is locked inside the cash register until removed by a supervisor.
 
@@ -50,18 +48,18 @@ Cash is most easily stolen, lost, or mishandled. It is important to protect all 
 
 8. Have the monthly bank statement sent to and reconciled by someone other than the employees who handle, record, and deposit the funds
 
-![](/bookkeeping/assets/mc-graw-accounting-course/chap9.cash/15.control.of.cash.png)
+![](./assets/mc-graw-accounting-course/chap9.cash/15.control.of.cash.png)
 
 ---
 
 ### 6. Banking Procedures
 
-![](/bookkeeping/assets/mc-graw-accounting-course/chap9.cash/18.check.stub.example.png)
-![](/bookkeeping/assets/mc-graw-accounting-course/chap9.cash/19.restrictive.endorsements.png)
+![](./assets/mc-graw-accounting-course/chap9.cash/18.check.stub.example.png)
+![](./assets/mc-graw-accounting-course/chap9.cash/19.restrictive.endorsements.png)
 
 
-![](/bookkeeping/assets/mc-graw-accounting-course/chap9.cash/20.post.dated.chjecks.png)
-![](/bookkeeping/assets/mc-graw-accounting-course/chap9.cash/21.errors.in.reconcilation.png)
+![](./assets/mc-graw-accounting-course/chap9.cash/20.post.dated.chjecks.png)
+![](./assets/mc-graw-accounting-course/chap9.cash/21.errors.in.reconcilation.png)
 
 
 ### 7. Debit Cards
@@ -71,12 +69,12 @@ Cash is most easily stolen, lost, or mishandled. It is important to protect all 
 ### 8. Chapter Questions
 
 
-![](/bookkeeping/assets/mc-graw-accounting-course/chap9.cash/30.section1.questions.png)
-![](/bookkeeping/assets/mc-graw-accounting-course/chap9.cash/31.section1a.questions.png)
+![](./assets/mc-graw-accounting-course/chap9.cash/30.section1.questions.png)
+![](./assets/mc-graw-accounting-course/chap9.cash/31.section1a.questions.png)
 
-![](/bookkeeping/assets/mc-graw-accounting-course/chap9.cash/16.section2.q.png)
-![](/bookkeeping/assets/mc-graw-accounting-course/chap9.cash/17.section2.q.png)
+![](./assets/mc-graw-accounting-course/chap9.cash/16.section2.q.png)
+![](./assets/mc-graw-accounting-course/chap9.cash/17.section2.q.png)
 
-![](/bookkeeping/assets/mc-graw-accounting-course/chap9.cash/27.section3a.q.png)
-![](/bookkeeping/assets/mc-graw-accounting-course/chap9.cash/28.section3b.q.png)
+![](./assets/mc-graw-accounting-course/chap9.cash/27.section3a.q.png)
+![](./assets/mc-graw-accounting-course/chap9.cash/28.section3b.q.png)
 

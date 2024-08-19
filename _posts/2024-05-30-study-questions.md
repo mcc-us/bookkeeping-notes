@@ -5,7 +5,7 @@ title: Study Questions
 
 |Study Questions|
 |:-|
-|1. Drawee is person issuing check, Drawer is Bank ![](/WrongQuestions/Screenshot.at.2024-04-18.17-03-55.png)|
+|1. Drawee is person issuing check, Drawer is Bank ![](./WrongQuestions/Screenshot.at.2024-04-18.17-03-55.png)|
 |2. ![](/WrongQuestions/Screenshot.at.2024-04-18.17-04-22.png)|
 |3. a-c require no changes ![](/WrongQuestions/Screenshot.at.2024-04-18.17-04-39.png)|
 |4. ![](/WrongQuestions/Screenshot.at.2024-04-18.17-05-03.png)|

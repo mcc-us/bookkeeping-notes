@@ -91,7 +91,7 @@ Links
 > **Businesses that are in it for the long haul will be more stable into the future and retain a better value.**  
 {: .block-tip }
 
-#### The Going Concern principle serves several purposes 
+### The Going Concern principle serves several purposes 
 
 1. It provides a basis for valuation. For example, If a company goes out of business, its assets would be lower than ordinarily, i.e., **liquidation value**, or **fire sale**. Therefore, the Going Concern Principle allows valuing assets based on their expected future use, which is generally higher than their **liquidation value**.  
 
@@ -99,7 +99,7 @@ Links
 
 1. It enables financial statement interpretation: assuming continuity allows users to interpret financial statements (e.g., debt levels) realistically, understanding risks and opportunities associated with a continued operation.  
 
-#### Importance of the Going Concern Principle  
+### Importance of the Going Concern Principle  
 
 1. Accuracy: financial statements become more accurate and relevant when a business is stable.  
 
@@ -107,16 +107,16 @@ Links
 
 1. Decision-making: Investors, creditors, and management use financial statements for informed decisions, and the Going Concern Principle helps stabilize future variability and risks.  
 
-#### Derivation of the Principle  
+### Derivation of the Principle  
 
 The **Going Concern** principle isn't explicitly mentioned in historical accounting pronouncements but **emerged as a foundational assumption as it aligns with long-term sustainability and growth.**  
 
-#### Important Caveats  
+### Important Caveats  
 
 1. Not absolute: If evidence suggests imminent liquidation (e.g., bankruptcy filing), the going concern assumption loses validity, and specific accounting procedures differ.  
 
 1. Judgment involved: Determining the existence of "substantial evidence" against going concern requires professional judgment and analysis of various factors.  
 
-#### Further Considerations  
+### Further Considerations  
 
 1. Different jurisdictions might have slight variations in interpreting and applying the Going Concern Principle.  

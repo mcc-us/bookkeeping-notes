@@ -6,10 +6,10 @@ title: Worksheet Templates
 ## Landscape
 
 <div class="pdf-container">
-    <iframe src="/bookkeeping/assets/worksheets/work.sheet.landscape.pdf" 
-        title="portrait-worksheet" 
-        height="400" 
-        width="700" 
+    <iframe src="./assets/worksheets/work.sheet.landscape.pdf" 
+        title="portrait-worksheet"
+        height="400"
+        width="700"
         allowfullscreen="false">
     </iframe>
 </div>
@@ -18,10 +18,10 @@ title: Worksheet Templates
 ## Portrait
 
 <div class="pdf-container">
-    <iframe src="/bookkeeping/assets/worksheets/9.col.balance.worksheet.pdf" 
-        title="landscape-worksheet" 
-        height="400" 
-        width="712" 
+    <iframe src="./assets/worksheets/9.col.balance.worksheet.pdf" 
+        title="landscape-worksheet"
+        height="400"
+        width="712"
         allowfullscreen="true">
     </iframe>
 </div>
@@ -30,11 +30,10 @@ title: Worksheet Templates
 ## General
 
 <div class="pdf-container">
-    <iframe src="/bookkeeping/assets/worksheets/general.worksheet.pdf" 
-        title="portrait-worksheet" 
-        height="400" 
-        width="712" 
+    <iframe src="./assets/worksheets/general.worksheet.pdf" 
+        title="portrait-worksheet"
+        height="400"
+        width="712"
         allowfullscreen="false">
     </iframe>
 </div>
-

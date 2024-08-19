@@ -4,6 +4,7 @@ title: GAAP & AUDITING
 ---
 
 The review of financial statements to assess their fairness and adherence to GAAP is:
+
 1. accounting
 2. preparation
 3. compliance
