@@ -5,7 +5,7 @@ layout: post
 
 |10 GAAP Concepts|
 |:-:|
-|![GAAP](../assets/misc/gaap.png)|
+|![GAAP](./assets/misc/gaap.png)|
 
 ### Principles
 
