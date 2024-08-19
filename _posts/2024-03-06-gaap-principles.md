@@ -5,9 +5,9 @@ layout: post
 
 |10 GAAP Concepts|
 |:-:|
-|![GAAP](/bookkeeping/assets/misc/gaap.png)|
+|![GAAP](../assets/misc/gaap.png)|
 
-### Principles   
+### Principles
 
 1. **Separate Entity** - Personal accounts must always be separated from business accounts. 
 
