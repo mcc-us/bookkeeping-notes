@@ -1,8 +1,9 @@
 ---
 layout: home
-title: mc-bk: bookkeeping notes
+title: mc bookkeeping notes
 permalink: /
 ---
+
 
 [BK Home](https://mcc-us.github.io/mc-bk/)
 
