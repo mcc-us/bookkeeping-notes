@@ -3,7 +3,9 @@ title: gitbook help
 layout: post
 ---
 
-More information see: [Jekyll Git Book theme](https://github.com/sighingnow/jekyll-gitbook) 
+This page is markdown help favorites. :blush:
+
+More information see: [Jekyll Git Book theme](https://github.com/sighingnow/jekyll-gitbook)
 
 ### Scale images on page
 
@@ -11,7 +13,7 @@ More information see: [Jekyll Git Book theme](https://github.com/sighingnow/jeky
 <img src="https://user-images.githubusercontent.com/link-to-your-image.png" width="100%" />
 ```
 
-### Add non-breaking space: 
+### Add non-breaking space
 
 `&nbsp;`
 
@@ -25,7 +27,7 @@ More information see: [Jekyll Git Book theme](https://github.com/sighingnow/jeky
 </div>
 ```
 
-### 3 Blocks
+### 4 Blocks
 
 >#### green tip
 >
@@ -39,14 +41,12 @@ More information see: [Jekyll Git Book theme](https://github.com/sighingnow/jeky
 {: .block-tip }
 ```
 
-
 ```
 > #### yellow warning
 >
 > yellow warning
 {: .block-warning }
 ```
-
 
 ```
 > #### red danger
@@ -65,8 +65,6 @@ More information see: [Jekyll Git Book theme](https://github.com/sighingnow/jeky
 | White box |
 ```
 
-
-
 ### Emojis
 
 https://gist.github.com/rxaviers/7360908
@@ -75,10 +73,13 @@ https://github-emoji-picker.rickstaa.dev/
 
 ### Links
 
-`[Absolute link to a page](https://mcc-us.github.io/2020-02-28-sample-markdown/)`
+```
+[Absolute link to a page](https://mcc-us.github.io/2020-02-28-sample-markdown/)
+```
 
-`[Relative link to a section inside a page](#local-urls)`
-
+```
+[Relative link to a section inside a page](#local-urls)
+```
 
 ### Bookmark Links on the Same Page
 
@@ -91,18 +92,23 @@ Then reference it with a normal Markdown link:
 ```[Some link](#someIdTag)```
 
 
-
 ### Pictures
 
-`![lion](/bookkeeping/assets/img/lion_head-144x144.png)`
+```
+![lion](/bookkeeping/assets/img/lion_head-144x144.png)
+```
 
 Images can also be centered!
 
-`![lion](/bookkeeping/assets/img/lion_head-144x144.png){: .mx-auto.d-block :}`
+```
+![lion](/bookkeeping/assets/img/lion_head-144x144.png){: .mx-auto.d-block :}
+```
 
+```
 |ImageTitle|
 |:-:|
 |![abc](/bookkeeping/assets/a.png)|
+```
 
 ### Code chunks 
 
@@ -129,11 +135,14 @@ foo(3)
 </div>
 ```
 
-<dl>
-  <dt>QBO</dt>
-  <dd>This is the definition of the first term.</dd>
-  <dt>Term 2</dt>
-  <dd>This is one definition of the second term.</dd>
-  <dd>This is another definition of the second term.</dd>
-</dl>
+### Dictionary Markdown
 
+```
+<dl>
+  <dt>Term 1</dt>
+  <dd>Definition of term 1</dd>
+  <dt>Term 2</dt>
+  <dd>Definition of term 2a</dd>
+  <dd>Definition of term 2b</dd>
+</dl>
+```
