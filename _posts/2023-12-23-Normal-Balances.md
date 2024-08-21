@@ -47,5 +47,3 @@ title: NORMAL BALANCES
 ||Payroll Tax Payable(L)|
 
 See Also: [Chart of Accounts - Example](./2024-04-27-chart-of-acts.html)
-
-![](/_posts/2024-04-27-chart-of-acts.md)
