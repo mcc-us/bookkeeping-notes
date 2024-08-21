@@ -4,7 +4,7 @@ title: Classified Balance Sheets
 ---
 
 
-**What is the difference between a "Balances Sheet" vs "Classified Balance sheet"?**   
+**What is the difference between a "Balances Sheet" vs "Classified Balance sheet"?**  
 
 1. **Balance Sheet**: summarizes a company's **assets, liabilities, and equity**. It lists each category (assets, liabilities, equity) with subtotals, but the details within each category might be limited.
 

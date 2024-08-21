@@ -29,7 +29,7 @@ Deferred~ Revenue \\
 
 ### 1. Prepaid Expenses
 
-![Pre-paid rent example](./assets/mc-graw-accounting-course/images/pre.paid.example.png)
+![Pre-paid rent example](/mc-bk/assets/mc-graw-accounting-course/images/pre.paid.example.png)
 
 > **Adjusting Entry**  
 > Dr Rent Expenses &nbsp;&nbsp; 4,000 (b)  
@@ -43,7 +43,7 @@ Deferred~ Revenue \\
 
 ### 2. Depreciation Expense
 
-![depreciation adjustment example](./assets/mc-graw-accounting-course/images/depreciation.example.png)
+![depreciation adjustment example](/mc-bk/assets/mc-graw-accounting-course/images/depreciation.example.png)
 
 
 ### 3. Accrued Expense
@@ -62,7 +62,7 @@ Accrued expenses are: Salaries, Utilities
 
 |Normal balance of Accrued Revenue is a credit.|
 |:-:|
-|![](./assets/misc/what-is-accrued-revenue.jpg)|
+|![](/mc-bk/assets/misc/what-is-accrued-revenue.jpg)|
   
 
 > **Example Adjusting w/ Accrued Revenue**  
@@ -83,7 +83,7 @@ Accrued expenses are: Salaries, Utilities
 
 |Define|
 |:-:|
-|![](./assets/misc/what-is-deferred-revenue.jpg)|
+|![](/mc-bk/assets/misc/what-is-deferred-revenue.jpg)|
 
 
 **Discussion** - *This can vary depending on the business.*

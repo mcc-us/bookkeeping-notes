@@ -24,7 +24,7 @@ Depreciating assets has significant income and tax implications in two key ways:
 
 ### Sample
 
-![Sample Depreciation Form](/bookkeeping/assets/mc-graw-accounting-course/bs.showing.equip.minus.depreciation.png)
+![Sample Depreciation Form](/mc-bk/assets/mc-graw-accounting-course/bs.showing.equip.minus.depreciation.png)
 
 ## A. straight line depreciation - 3 Steps
 

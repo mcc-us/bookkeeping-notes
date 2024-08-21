@@ -52,17 +52,17 @@ Federal laws require detailed payroll records be maintained for all categories o
 
 ---
 
-![](./assets/mc-graw-accounting-course/chap10.payroll/chap10.prob1.table.png)
+![](/mc-bk/assets/mc-graw-accounting-course/chap10.payroll/chap10.prob1.table.png)
 
-![](./assets/mc-graw-accounting-course/chap10.payroll/chap10.salary.table.png)
+![](/mc-bk/assets/mc-graw-accounting-course/chap10.payroll/chap10.salary.table.png)
 
-![](./assets/mc-graw-accounting-course/chap10.payroll/chap10.tax.journal.entry.png)
+![](/mc-bk/assets/mc-graw-accounting-course/chap10.payroll/chap10.tax.journal.entry.png)
 
-![](./assets/mc-graw-accounting-course/chap10.payroll/journal.entry.monthly.payroll.png)
+![](/mc-bk/assets/mc-graw-accounting-course/chap10.payroll/journal.entry.monthly.payroll.png)
 
-![](./assets/mc-graw-accounting-course/chap10.payroll/payroll.calcs.ledger.png)
+![](/mc-bk/assets/mc-graw-accounting-course/chap10.payroll/payroll.calcs.ledger.png)
 
-![](./assets/mc-graw-accounting-course/chap10.payroll/chap10.wage.exp.prob.png)
+![](/mc-bk/assets/mc-graw-accounting-course/chap10.payroll/chap10.wage.exp.prob.png)
 
 
 <!--
@@ -71,25 +71,25 @@ Federal laws require detailed payroll records be maintained for all categories o
 
 |Book NOTES|
 |:-|
-|1. id.contracor.png ![](./assets/mc-graw-accounting-course/chap10.payroll/1.id.contracor.png)|
-|2. ss.emplooyee.employer.taxs.png![](./assets/mc-graw-accounting-course/chap10.payroll/2.ss.emplooyee.employer.taxs.png)|
-|3. wage.base.limit ![](./assets/mc-graw-accounting-course/chap10.payroll/2.wage.base.limit.png)|
-|4. medicare.tax![](./assets/mc-graw-accounting-course/chap10.payroll/4.medicare.tax.png)|
-|5. tax.table.png ![](./assets/mc-graw-accounting-course/chap10.payroll/5.tax.table.png)|
-|6. suta.png![](./assets/mc-graw-accounting-course/chap10.payroll/6.suta.png)|
-|7. employee.records.reqd![](./assets/mc-graw-accounting-course/chap10.payroll/7.employee.records.reqd.png)|
-|8. earnings ![](./assets/mc-graw-accounting-course/chap10.payroll/8.earnings.png)|
-|9.  gros.pay ![](./assets/mc-graw-accounting-course/chap10.payroll/9.gros.pay.png)|
-|10. fed.taxes.info![](./assets/mc-graw-accounting-course/chap10.payroll/11.fed.taxes.info.png)|
-|11. withholdings ![](./assets/mc-graw-accounting-course/chap10.payroll/12.withholdings.png)|
-|12. medicare.tax.table ![](./assets/mc-graw-accounting-course/chap10.payroll/medicare.tax.table.png)|
-|13. ss.tax.table.example ![](./assets/mc-graw-accounting-course/chap10.payroll/ss.tax.table.example.png)|
+|1. id.contracor.png ![](/mc-bk/assets/mc-graw-accounting-course/chap10.payroll/1.id.contracor.png)|
+|2. ss.emplooyee.employer.taxs.png![](/mc-bk/assets/mc-graw-accounting-course/chap10.payroll/2.ss.emplooyee.employer.taxs.png)|
+|3. wage.base.limit ![](/mc-bk/assets/mc-graw-accounting-course/chap10.payroll/2.wage.base.limit.png)|
+|4. medicare.tax![](/mc-bk/assets/mc-graw-accounting-course/chap10.payroll/4.medicare.tax.png)|
+|5. tax.table.png ![](/mc-bk/assets/mc-graw-accounting-course/chap10.payroll/5.tax.table.png)|
+|6. suta.png![](/mc-bk/assets/mc-graw-accounting-course/chap10.payroll/6.suta.png)|
+|7. employee.records.reqd![](/mc-bk/assets/mc-graw-accounting-course/chap10.payroll/7.employee.records.reqd.png)|
+|8. earnings ![](/mc-bk/assets/mc-graw-accounting-course/chap10.payroll/8.earnings.png)|
+|9.  gros.pay ![](/mc-bk/assets/mc-graw-accounting-course/chap10.payroll/9.gros.pay.png)|
+|10. fed.taxes.info![](/mc-bk/assets/mc-graw-accounting-course/chap10.payroll/11.fed.taxes.info.png)|
+|11. withholdings ![](/mc-bk/assets/mc-graw-accounting-course/chap10.payroll/12.withholdings.png)|
+|12. medicare.tax.table ![](/mc-bk/assets/mc-graw-accounting-course/chap10.payroll/medicare.tax.table.png)|
+|13. ss.tax.table.example ![](/mc-bk/assets/mc-graw-accounting-course/chap10.payroll/ss.tax.table.example.png)|
 
 ---
 
 ### Questions
 
-![](./assets/mc-graw-accounting-course/chap10.payroll/c%20hap10.section1a.q.png)
-![](./assets/mc-graw-accounting-course/chap10.payroll/chap10.sectiojn1b.q.png)
+![](/mc-bk/assets/mc-graw-accounting-course/chap10.payroll/c%20hap10.section1a.q.png)
+![](/mc-bk/assets/mc-graw-accounting-course/chap10.payroll/chap10.sectiojn1b.q.png)
 
 -->

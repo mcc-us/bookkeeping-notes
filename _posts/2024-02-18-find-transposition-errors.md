@@ -3,7 +3,7 @@ layout: post
 title: How To Find Transposition Errors
 ---
 
-**How To Find transposition errors in a trial balance** 
+**How To Find transposition errors in a trial balance**
 
 A transposition error occurs when two digits are reversed, such as 920 entered as 290. If the difference between the debit and credit column totals is exactly divisible by 9 and there is only one error causing the problem, that error may be a transposition. To find a transposition, follow these tutorials:
 

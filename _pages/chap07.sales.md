@@ -21,24 +21,24 @@ Sales~ Discount(Contra~Rev-Dr) \\
 
 <!--  
 **Dr/Cr Sales Accounts**
-![](./assets/mc-graw-accounting-course/chap7.sales.returns/chap7.1.png)
+![](/mc-bk/assets/mc-graw-accounting-course/chap7.sales.returns/chap7.1.png)
 
 ### 1. Sales, NO Tax
 
-![](./assets/mc-graw-accounting-course/chap7.sales.returns/1.sales.w.NO.tax.png)
+![](/mc-bk/assets/mc-graw-accounting-course/chap7.sales.returns/1.sales.w.NO.tax.png)
 -->
 
 ### 12. Sales WITH Tax
 
-![](./assets/mc-graw-accounting-course/chap7.sales.returns/2.sales.w.tax.png)
+![](/mc-bk/assets/mc-graw-accounting-course/chap7.sales.returns/2.sales.w.tax.png)
 
 ### 2. Returns & Allowances WITH Tax, Cash or A/R
 
 **Which one is better?**
 
-![](./assets/mc-graw-accounting-course/chap7.sales.returns/3.Cash.AR.sales.return.allowances.taxed.png)
+![](/mc-bk/assets/mc-graw-accounting-course/chap7.sales.returns/3.Cash.AR.sales.return.allowances.taxed.png)
 
-![](./assets/mc-graw-accounting-course/chap7.sales.returns/recording.sales.returns.allowances.png)
+![](/mc-bk/assets/mc-graw-accounting-course/chap7.sales.returns/recording.sales.returns.allowances.png)
 
 ### 3. Trade Discounts
 
@@ -47,7 +47,7 @@ A Sale or Trade discount is a reduction from list price.
    - **2/15** = 2% OFF, if < 15 days
    - **n/30** - No discount, Payment expected by 30 days
 
-![](./assets/mc-graw-accounting-course/chap7.sales.returns/4.trade.discount.png)
+![](/mc-bk/assets/mc-graw-accounting-course/chap7.sales.returns/4.trade.discount.png)
 
 |Sales discount of 1% reduction from list price.|*1/15, n/30*|
 |:-|-:|
@@ -60,7 +60,7 @@ A Sale or Trade discount is a reduction from list price.
 - credit terms
    - Many businesses offer discounts to customers for early payment of invoices. These are known as credit terms.
 
-![](./assets/mc-graw-accounting-course/chap7.sales.returns/5.cash.discouont.on.sales.returns.png)
+![](/mc-bk/assets/mc-graw-accounting-course/chap7.sales.returns/5.cash.discouont.on.sales.returns.png)
 
 <!--
 ### Reporting Net Sales
@@ -79,27 +79,27 @@ Net sales = Total Sales - Sales Returns/Allowances account - Sales Discounts.
 
 Time on video 22:50
 
-![](./assets/mc-graw-accounting-course/chap7.sales.returns/6.schedule.of.accounts.receivable.7.5.png)
+![](/mc-bk/assets/mc-graw-accounting-course/chap7.sales.returns/6.schedule.of.accounts.receivable.7.5.png)
 
 ### 6. Credit Card Sales via A/R  
 
-![](./assets/mc-graw-accounting-course/chap7.sales.returns/7.credit.card.sales.via.AR.png)
+![](/mc-bk/assets/mc-graw-accounting-course/chap7.sales.returns/7.credit.card.sales.via.AR.png)
 
 <!--
 ### State Tax forms
 
-![](./assets/mc-graw-accounting-course/chap7.sales.returns/8.sales.taxes.state.form.png)
+![](/mc-bk/assets/mc-graw-accounting-course/chap7.sales.returns/8.sales.taxes.state.form.png)
 
 ### Schedule of Accounts for Customers Accounts Receivable
 
 - Procedure for Keeping track of customer sales:
 
-![](./assets/mc-graw-accounting-course/chap7.sales.returns/9.act.recvable.2.schedule.2.ar.balance.png)
+![](/mc-bk/assets/mc-graw-accounting-course/chap7.sales.returns/9.act.recvable.2.schedule.2.ar.balance.png)
 -->
 
 ### 7. Double Trade Discounts
 
-![](./assets/mc-graw-accounting-course/chap7.sales.returns/7.double.trade.discount.png)
+![](/mc-bk/assets/mc-graw-accounting-course/chap7.sales.returns/7.double.trade.discount.png)
 
 <!--
 ### 7.4 Post from the journal to the ledger accounts and to the subsidiary ledger.
@@ -117,5 +117,5 @@ Time on video 22:50
 
 ### Overview
 
-![](./assets/mc-graw-accounting-course/chap7.sales.returns/chap7.review.png)
+![](/mc-bk/assets/mc-graw-accounting-course/chap7.sales.returns/chap7.review.png)
 -->

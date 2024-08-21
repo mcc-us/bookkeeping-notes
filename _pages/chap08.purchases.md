@@ -24,11 +24,11 @@ Purchase~ Returns~ \&~ Allowances(CE) \\
 <!--
 **Accounts**
 
-![](./assets/mc-graw-accounting-course/chap8.purchases/2.purchase.acts.png)
+![](/mc-bk/assets/mc-graw-accounting-course/chap8.purchases/2.purchase.acts.png)
 
 ### 1. Purchases, NO Freight, NO Allowances
 
-![](./assets/mc-graw-accounting-course/chap8.purchases/3.basic.purchase.transactions.png)
+![](/mc-bk/assets/mc-graw-accounting-course/chap8.purchases/3.basic.purchase.transactions.png)
 -->
 
 ### 1. Purchases w/ Freight Costs
@@ -38,11 +38,11 @@ In General:
 
 2. The buyer is billed directly by the transportation company for the freight charge. The buyer issues a check directly to the freight company.
 
-![](./assets/mc-graw-accounting-course/chap8.purchases/4.purchase.N.returns.w.freight.png)
+![](/mc-bk/assets/mc-graw-accounting-course/chap8.purchases/4.purchase.N.returns.w.freight.png)
 
 ### 2. Returns & Allowances
 
-![](./assets/mc-graw-accounting-course/chap8.purchases/5.purcahse.allowances.redux.png)
+![](/mc-bk/assets/mc-graw-accounting-course/chap8.purchases/5.purcahse.allowances.redux.png)
 
 >**Purchase Terms** are negotiated  
 > Common ones include:  
@@ -53,13 +53,13 @@ In General:
 
 ### 3. Discounts & Returns
 
-![](./assets/mc-graw-accounting-course/chap8.purchases/6.purchase.w.discount.w.return.png)
+![](/mc-bk/assets/mc-graw-accounting-course/chap8.purchases/6.purchase.w.discount.w.return.png)
 
-![](./assets/mc-graw-accounting-course/chap8.purchases/100.purchase.w.discount.png)
+![](/mc-bk/assets/mc-graw-accounting-course/chap8.purchases/100.purchase.w.discount.png)
 
-![](./assets/mc-graw-accounting-course/chap8.purchases/205.purchase.discounts.w.discount.png)
+![](/mc-bk/assets/mc-graw-accounting-course/chap8.purchases/205.purchase.discounts.w.discount.png)
 
-![](./assets/mc-graw-accounting-course/chap8.purchases/206.acct.payable.w.discount.cash.png)
+![](/mc-bk/assets/mc-graw-accounting-course/chap8.purchases/206.acct.payable.w.discount.cash.png)
 
 ### 4. Trade & Early Cash Discounts
 
@@ -67,11 +67,11 @@ In General:
 |:-|-:|
 |Discounts (20%, 10% = 0.8 x 0.9 = 0.72): 6000 x 0.72 = |4320|
 
-![](./assets/mc-graw-accounting-course/chap8.purchases/8.using.trade.discounts.png)
+![](/mc-bk/assets/mc-graw-accounting-course/chap8.purchases/8.using.trade.discounts.png)
 
 ### 5. Net delivered cost of purchases.
 
-![](./assets/mc-graw-accounting-course/chap8.purchases/9.net.delivery.costs.png)
+![](/mc-bk/assets/mc-graw-accounting-course/chap8.purchases/9.net.delivery.costs.png)
 
 |Transaction|$|
 |:-|-:|
@@ -84,7 +84,7 @@ In General:
 ### 6. Schedule of accounts payable
 A list of all balances owed to creditors
 
-![](./assets/mc-graw-accounting-course/chap8.purchases/101.schedule.of.acct.payable.png)
+![](/mc-bk/assets/mc-graw-accounting-course/chap8.purchases/101.schedule.of.acct.payable.png)
 
 ### 7. Internal control of purchases
 
@@ -94,10 +94,10 @@ WATCH this [Perpetual Inventory Accounting by Edspira](https://www.youtube.com/w
 
 [This too](https://www.youtube.com/watch?v=OB6RDzqvNbk)
 
-![](./assets/mc-graw-accounting-course/chap8.purchases/201.merch.inventory.png)
+![](/mc-bk/assets/mc-graw-accounting-course/chap8.purchases/201.merch.inventory.png)
 
-![](./assets/mc-graw-accounting-course/chap8.purchases/203.merch.w.freight.png)
+![](/mc-bk/assets/mc-graw-accounting-course/chap8.purchases/203.merch.w.freight.png)
 
-![](./assets/mc-graw-accounting-course/chap8.purchases/208.cost.of.goods.transactions.png)
+![](/mc-bk/assets/mc-graw-accounting-course/chap8.purchases/208.cost.of.goods.transactions.png)
 
-![](./assets/mc-graw-accounting-course/chap8.purchases/209.cost.goods.merch.sales.png)
+![](/mc-bk/assets/mc-graw-accounting-course/chap8.purchases/209.cost.goods.merch.sales.png)
