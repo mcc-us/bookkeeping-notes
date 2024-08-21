@@ -83,7 +83,7 @@ Accrued expenses are: Salaries, Utilities
 
 |Define|
 |:-:|
-|![](/mc-bk/assets/misc/what-is-deferred-revenue.jpg)|
+|![what-is-deferred-revenue](/mc-bk/assets/misc/what-is-deferred-revenue.jpg)|
 
 
 **Discussion** - *This can vary depending on the business.*

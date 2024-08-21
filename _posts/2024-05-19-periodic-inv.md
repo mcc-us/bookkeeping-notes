@@ -39,7 +39,7 @@ Scenario:
 
 Journal Entry:
 
-> Dr Office Supplies 250 (records purchase)
+> Dr Office Supplies 250 (records purchase)  
 > &nbsp;&nbsp;&nbsp;&nbsp; Cr A/P 250 (records money owed to creditor)
 {: .block-tip }
 

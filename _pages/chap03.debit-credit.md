@@ -49,7 +49,7 @@ Every transaction has (at least) two components:
 
 ### 3. Accounting Equation
 
-![](/mc-bk/assets/misc/balance.sheet.png)
+![balance.sheet](/mc-bk/assets/misc/balance.sheet.png)
 
 ---
 
