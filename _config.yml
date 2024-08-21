@@ -23,7 +23,7 @@ email: mcurcio@duck.com
 description: >- # this means to ignore newlines until "baseurl:"
   MC's Bookkeeping Notes
 
-baseurl: "/mc-bk" # the subpath of your site, e.g. /blog
+baseurl: "/bookkeeping-notes" # the subpath of your site, e.g. /blog
 url: "https://mcc-us.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 github_username:  mcc-us
