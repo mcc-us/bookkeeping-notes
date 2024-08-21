@@ -3,9 +3,9 @@ layout: post
 title: Conservatism
 ---
 
-**Explain what conservatism means, and give an example in your own words.**
+**Q. Explain what conservatism means, and give an example in your own words.**
 
-- Conservatism in accounting refers to a cautious approach when preparing financial statements. It prioritizes avoiding overstating a company's financial health by focusing on potential losses or limitations. Accountants aim to provide a more realistic and potentially less optimistic picture of a company's financial health
+A. Conservatism in accounting refers to a cautious approach when preparing financial statements. It prioritizes avoiding overstating a company's financial health by focusing on potential losses or limitations. Accountants aim to provide a more realistic and potentially less optimistic picture of a company's financial health
 
 Imagine you're planning a camping trip. You estimate you'll need 100 for food, but you're unsure of unexpected costs. Following a conservative approach, you might budget 120 to account for the possibility of needing to buy firewood or extra snacks. This ensures you have enough money even if things don't go exactly according to plan.
 
