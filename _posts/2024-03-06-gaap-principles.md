@@ -5,7 +5,7 @@ layout: post
 
 |10 GAAP Concepts|
 |:-:|
-|![GAAP](./assets/misc/gaap.png)|
+|![GAAP](/bookkeeping-notes/assets/misc/gaap.png)|
 
 ### Principles
 
@@ -39,12 +39,12 @@ layout: post
 
 - GAAP is developed by Financial Accounting Standards Board (FASB).  
 - The **SEC requires publicly traded companies to comply with GAAP.** 
-- GAAP recommends that publicly traded companies have their financial statements audited by independent auditors.   
+- GAAP recommends that publicly traded companies have their financial statements audited by independent auditors.  
   - Standards can be changed by petitioning FASB. It's more common for the FASB to initiate changes based on research, public input, and emerging issues.  
   - **Exposure draft** describes proposed changes, **discussion memorandum** followed by **Accounting standards Codification** implementation  
-  - Auditors produce report on the operation and financial position of the business   
+  - Auditors produce report on the operation and financial position of the business  
   - Audits should be:  
-    - Timely, accurate and fair   
+    - Timely, accurate and fair  
     - Assets and liabilities should be objectively determinable  
 
 

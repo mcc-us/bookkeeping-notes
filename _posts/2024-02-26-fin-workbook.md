@@ -7,7 +7,7 @@ tags:  worksheet
 ## Tony Bell's Financial Workbook
 
 <div class="pdf-container">
-    <iframe src="./assets/tony-bell/financial_accounting_workbook_version_2_point_1.pdf" 
+    <iframe src="/bookkeeping-notes/assets/tony-bell/financial_accounting_workbook_version_2_point_1.pdf" 
         title="landscape-worksheet" 
         height="400" 
         width="712" 

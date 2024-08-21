@@ -26,4 +26,4 @@ What order are financial statements prepared?
 
 #### 5. Financial Ratios
 
-- [See Post](_pages/y-fin-ratios.md)
+- [See Post?????](_pages/y-fin-ratios.md)

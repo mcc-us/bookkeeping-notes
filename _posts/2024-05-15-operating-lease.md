@@ -12,7 +12,7 @@ title: Operating Vs Financing Leases
 2. Financing leases, (aka 'Rent to Own') Ownership of the asset often transfers to the lessee at the end of term. The aggregate lease payments on a financing lease often equal or exceed 90% of the asset's initial cost.
 
 
-![](./assets/misc/operating-lease.width-880.webp)
+![](/bookkeeping-notes/assets/misc/operating-lease.width-880.webp)
 
 
 **Pros / Cons of Operating Leases**

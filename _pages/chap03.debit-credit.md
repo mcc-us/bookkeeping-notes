@@ -5,7 +5,7 @@ title: 4-Debit & Credits
 
 ### 1. Debit & Credits
 
-![Cedit=Destination, Debit=Source](/mc-bk/assets/mc-graw-accounting-course/images/debit-destination-credit-source.png)
+![Cedit=Destination, Debit=Source](/bookkeeping-notes/assets/mc-graw-accounting-course/images/debit-destination-credit-source.png)
 
 **In General**:
 
@@ -42,14 +42,14 @@ Every transaction has (at least) two components:
 
 | Example Transaction |
 |:-----:|
-| ![Example Entry](/mc-bk/assets/mc-graw-accounting-course/images/example.journal.entry.png) |
+| ![Example Entry](/bookkeeping-notes/assets/mc-graw-accounting-course/images/example.journal.entry.png) |
 
 - Double-entry bookkeeping states that a transaction may effect 2 or more accounts.  
   - *For example*; Money comes from account & goes into another.  
 
 ### 3. Accounting Equation
 
-![balance.sheet](/mc-bk/assets/misc/balance.sheet.png)
+![balance.sheet](/bookkeeping-notes/assets/misc/balance.sheet.png)
 
 ---
 
@@ -61,7 +61,7 @@ Example C.O.A. Numbering
 |:-|:-|:-|:-|:-|
 |Assets|Liabilities|Owner Equity|Revenue|Expenses|
 
-![Example C.O.A.](/mc-bk/assets/aipb/coa.example.png)
+![Example C.O.A.](/bookkeeping-notes/assets/aipb/coa.example.png)
 
 > COA's should be printable and easy to reference bc it may be used often.  
 {: .block-tip }

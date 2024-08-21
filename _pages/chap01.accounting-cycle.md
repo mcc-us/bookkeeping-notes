@@ -6,7 +6,7 @@ layout: post
 
 ||The Accounting Cycle|
 |:-|:-:|
-|1. Analyze<br>2. Journal<br>3. Post<br>4. Worksheet<br>5. Fin. Statements<br>6. Adjustments<br>7. Close Book<br>8. Trial Balance<br>9. Interpret|![Accounting Cycle Flowhart](/mc-bk/assets/mc-graw-accounting-course/images/cir.act.cycle.85.png)|
+|1. Analyze<br>2. Journal<br>3. Post<br>4. Worksheet<br>5. Fin. Statements<br>6. Adjustments<br>7. Close Book<br>8. Trial Balance<br>9. Interpret|![Accounting Cycle Flowhart](/bookkeeping-notes/assets/mc-graw-accounting-course/images/cir.act.cycle.85.png)|
 
 
 ## 1. Identify & Analyze Transactions
@@ -21,14 +21,14 @@ layout: post
 - Entries should have three lines: debit, credit and description lines.  
 - The journal is the record of first entry.  
 
-![example journal entry](/mc-bk/assets/mc-graw-accounting-course/images/example.journal.entry.png)
+![example journal entry](/bookkeeping-notes/assets/mc-graw-accounting-course/images/example.journal.entry.png)
 
 ## 3. Post Transactions From Journal To Ledger  
 
 - Transactions listed in the Journal are transferred to their respective Ledger accounts.
 - Each account has its own ledger for tracking.
 
-![example ledger](/mc-bk/assets/misc/post.2.ledger.jpg)
+![example ledger](/bookkeeping-notes/assets/misc/post.2.ledger.jpg)
 
 ## 4. Prepare Worksheet / Trial Balance(s)
 
@@ -38,7 +38,7 @@ layout: post
 
 |Worksheet of Trial-Balance|
 |:-:|
-|![Worksheet](/mc-bk/assets/mc-graw-accounting-course/images/fig5.8f.preparation.of.bs.w.Circles.png)|
+|![Worksheet](/bookkeeping-notes/assets/mc-graw-accounting-course/images/fig5.8f.preparation.of.bs.w.Circles.png)|
 
 ## 5. Make Adjusting Entries (If Needed)
 
@@ -52,7 +52,7 @@ layout: post
 
 |Complete Worksheet|
 |:-:|
-|![Worksheet](/mc-bk/assets/mc-graw-accounting-course/images/fig5.8f.preparation.of.bs.w.Circles.png)|
+|![Worksheet](/bookkeeping-notes/assets/mc-graw-accounting-course/images/fig5.8f.preparation.of.bs.w.Circles.png)|
 
 ## 7. Journalize & Post Closing Entries (Close Books - If Needed)
 

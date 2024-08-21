@@ -13,7 +13,7 @@ QBO Test drive - [https://qbo-intuit.com/redir/testdrive](https://qbo.intuit.com
 
 - QBO, How to Add...:
 
-![List of Actions](./assets/calvin.lee.udemy/QBO-adding-new.png)
+![List of Actions](/bookkeeping-notes/assets/calvin.lee.udemy/QBO-adding-new.png)
 
 
 ## Section 2: Using QBO

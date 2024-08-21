@@ -29,21 +29,21 @@ Objectives:
 > &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Cr Income Summary **Final merchandise value**  
 {: .block-tip }
 
-![](/mc-bk/assets/mc-graw-accounting-course/chap12-accurals/chap12.exer.merch.2.is.2.merch.png)
+![](/bookkeeping-notes/assets/mc-graw-accounting-course/chap12-accurals/chap12.exer.merch.2.is.2.merch.png)
 
-![](/mc-bk/assets/mc-graw-accounting-course/chap12-accurals/chap12.exer.2.png)
+![](/bookkeeping-notes/assets/mc-graw-accounting-course/chap12-accurals/chap12.exer.2.png)
 
 <!--
-![](/mc-bk/assets/mc-graw-accounting-course/chap12-accurals/4.merch.inv.income.sum.png)
+![](/bookkeeping-notes/assets/mc-graw-accounting-course/chap12-accurals/4.merch.inv.income.sum.png)
 
-![](/mc-bk/assets/mc-graw-accounting-course/chap12-accurals/2.adjustments.4.merch.png)
+![](/bookkeeping-notes/assets/mc-graw-accounting-course/chap12-accurals/2.adjustments.4.merch.png)
 
-![](/mc-bk/assets/mc-graw-accounting-course/chap12-accurals/2.steps.bal.adjustments.png)
+![](/bookkeeping-notes/assets/mc-graw-accounting-course/chap12-accurals/2.steps.bal.adjustments.png)
 -->
 
 - Merchandise Inv. & End of Period Adjustments using Income Summary
 
-![](/mc-bk/assets/mc-graw-accounting-course/chap12-accurals/3.income.summary.adjustments.png)
+![](/bookkeeping-notes/assets/mc-graw-accounting-course/chap12-accurals/3.income.summary.adjustments.png)
 
 ## Uncollectible Act & Allowance for Doubtful Acts
 
@@ -54,12 +54,12 @@ Objectives:
 > &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Cr Allowance for Doubtful Acts. **Value**  
 {: .block-tip }
 
-![](/mc-bk/assets/mc-graw-accounting-course/chap12-accurals/chap12.ex.3.png)
+![](/bookkeeping-notes/assets/mc-graw-accounting-course/chap12-accurals/chap12.ex.3.png)
 
 <!--
-![](/mc-bk/assets/mc-graw-accounting-course/chap12-accurals/5.uncollectible.doubtful.acts.png)
+![](/bookkeeping-notes/assets/mc-graw-accounting-course/chap12-accurals/5.uncollectible.doubtful.acts.png)
 
-![](/mc-bk/assets/mc-graw-accounting-course/chap12-accurals/doubtuful.acts.png)
+![](/bookkeeping-notes/assets/mc-graw-accounting-course/chap12-accurals/doubtuful.acts.png)
 -->
 
 ## Payroll Taxes, Accrued
@@ -81,11 +81,11 @@ Simple Interest = PRT = Principle x Interest Rate x Time
 
 Compounding Interest = $\large P(1 + \frac{R}{n})^{nT}$ ; where n = Periods
 
-![](/mc-bk/assets/mc-graw-accounting-course/chap12-accurals/chap12.ex.5.png)
+![](/bookkeeping-notes/assets/mc-graw-accounting-course/chap12-accurals/chap12.ex.5.png)
 
-![](/mc-bk/assets/mc-graw-accounting-course/chap12-accurals/chap12.ex.6.png)
+![](/bookkeeping-notes/assets/mc-graw-accounting-course/chap12-accurals/chap12.ex.6.png)
 
-![](/mc-bk/assets/mc-graw-accounting-course/chap12-accurals/chap12.ex.7.jpg)
+![](/bookkeeping-notes/assets/mc-graw-accounting-course/chap12-accurals/chap12.ex.7.jpg)
 
 ## Adjust Supplies & Expense
 
@@ -96,7 +96,7 @@ Compounding Interest = $\large P(1 + \frac{R}{n})^{nT}$ ; where n = Periods
 {: .block-tip }  
 
 <!--
-![](/mc-bk/assets/mc-graw-accounting-course/chap12-accurals/6.accrued.prepaid.exp.ex.supplies.png)
+![](/bookkeeping-notes/assets/mc-graw-accounting-course/chap12-accurals/6.accrued.prepaid.exp.ex.supplies.png)
 -->
 
 ## Unearned Income - Example, Publishing Subscription
@@ -113,15 +113,15 @@ Compounding Interest = $\large P(1 + \frac{R}{n})^{nT}$ ; where n = Periods
 
 - Leaves a balance of $250 for `Unearned Subscription Income`.
 
-![Publishing example](/mc-bk/assets/mc-graw-accounting-course/chap12-accurals/7.unearned.income.4.publishing.example.png)
+![Publishing example](/bookkeeping-notes/assets/mc-graw-accounting-course/chap12-accurals/7.unearned.income.4.publishing.example.png)
 
 ## Depreciation Example
 
-![Depreciation Example](/mc-bk/assets/mc-graw-accounting-course/chap12-accurals/depreciation.example.png)
+![Depreciation Example](/bookkeeping-notes/assets/mc-graw-accounting-course/chap12-accurals/depreciation.example.png)
 
 ## Worksheet Example, FULL
 
-![Full Worksheet Example](/mc-bk/assets/mc-graw-accounting-course/chap12-accurals/chap12.prob.4.worksheet.png)
+![Full Worksheet Example](/bookkeeping-notes/assets/mc-graw-accounting-course/chap12-accurals/chap12.prob.4.worksheet.png)
 
 ---
 
@@ -202,4 +202,4 @@ Compounding Interest = $\large P(1 + \frac{R}{n})^{nT}$ ; where n = Periods
 
 - Unearned Income: This is a liability created when you receive payment in advance for a service not yet performed.  Imagine receiving a payment for a magazine subscription that starts next month. You have a liability (unearned income) until you deliver the service (magazines) over time.
 
-![](/mc-bk/assets/mc-graw-accounting-course/chap12-accurals/8.over.all.review.png)
+![](/bookkeeping-notes/assets/mc-graw-accounting-course/chap12-accurals/8.over.all.review.png)
