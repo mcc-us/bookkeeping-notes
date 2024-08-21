@@ -46,4 +46,6 @@ title: NORMAL BALANCES
 ||FUTA & SUTA Payable(L)|
 ||Payroll Tax Payable(L)|
 
-See Also: [Chart of Accounts - Example](./2024-04-27-chart-of-acts.md)
+See Also: [Chart of Accounts - Example](./2024-04-27-chart-of-acts.html)
+
+![](/_posts/2024-04-27-chart-of-acts.md)
