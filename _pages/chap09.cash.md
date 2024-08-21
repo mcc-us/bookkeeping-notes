@@ -36,15 +36,15 @@ $$\frac{Assets}{\begin{bmatrix}
 
 **Replenshing Petty Cash is same as Opening**.  
 
-![Opening a Petty Cash Act](/bookkeeping/assets/mc-graw-accounting-course/chap9.cash/q3.exercises.png)
+![Opening a Petty Cash Act](./assets/mc-graw-accounting-course/chap9.cash/q3.exercises.png)
 
 Petty Cash must have an **Analysis Sheet** to mark down purchases.  
 
-![](/bookkeeping/assets/mc-graw-accounting-course/chap9.cash/11.petty.cash.balance.sheet.png)
+![](./assets/mc-graw-accounting-course/chap9.cash/11.petty.cash.balance.sheet.png)
 
 #### 1b. Replenish Petty Cash
 
-![](/bookkeeping/assets/mc-graw-accounting-course/chap9.cash/2b.replenish.petty.cash.png)
+![](./assets/mc-graw-accounting-course/chap9.cash/2b.replenish.petty.cash.png)
 
 
 ### 2. Cash Sales & Cash Variance
@@ -53,9 +53,9 @@ Petty Cash must have an **Analysis Sheet** to mark down purchases.
 
 |Cash Register Sales w/ Cash Short/Over|
 |:-|
-|![](/bookkeeping/assets/mc-graw-accounting-course/chap9.cash/q1.exercises.png)|
+|![](./assets/mc-graw-accounting-course/chap9.cash/q1.exercises.png)|
 |Cash Log|
-|![](/bookkeeping/assets/mc-graw-accounting-course/chap9.cash/cash.log.chap9.crit.prob1.png)|
+|![](./assets/mc-graw-accounting-course/chap9.cash/cash.log.chap9.crit.prob1.png)|
 
 **A Balance found on:**
 
@@ -71,11 +71,11 @@ Petty Cash must have an **Analysis Sheet** to mark down purchases.
 
 **Lending Money**  
 
-![4.entry.of.promissary.note.png](/bookkeeping/assets/mc-graw-accounting-course/chap9.cash/4.entry.of.promissary.note.png)
+![4.entry.of.promissary.note.png](./assets/mc-graw-accounting-course/chap9.cash/4.entry.of.promissary.note.png)
 
 **Paying off promissory notes with interest**  
 
-![5.paying.off.promissary.notes.w.interest](/bookkeeping/assets/mc-graw-accounting-course/chap9.cash/5.paying.off.promissary.notes.w.interest.png)
+![5.paying.off.promissary.notes.w.interest](./assets/mc-graw-accounting-course/chap9.cash/5.paying.off.promissary.notes.w.interest.png)
 
 ---
 
@@ -140,42 +140,42 @@ Common Issues:
 ---
 
 **Question 4**
-![](/bookkeeping/assets/mc-graw-accounting-course/chap9.cash/29.bank.recon.example.png)
+![](./assets/mc-graw-accounting-course/chap9.cash/29.bank.recon.example.png)
 
 
 **Question 4**
-![](/bookkeeping/assets/mc-graw-accounting-course/chap9.cash/q4.exer.A.png)
+![](./assets/mc-graw-accounting-course/chap9.cash/q4.exer.A.png)
 
 ---
 
 **Question 5**
-![](/bookkeeping/assets/mc-graw-accounting-course/chap9.cash/q5.exer.png)
+![](./assets/mc-graw-accounting-course/chap9.cash/q5.exer.png)
 
 ---
 
 **Question 6**
-![](/bookkeeping/assets/mc-graw-accounting-course/chap9.cash/q6.exer.A.png)
+![](./assets/mc-graw-accounting-course/chap9.cash/q6.exer.A.png)
 
 ---
 
 **Question 7**
-![](/bookkeeping/assets/mc-graw-accounting-course/chap9.cash/q7.exer.png)
+![](./assets/mc-graw-accounting-course/chap9.cash/q7.exer.png)
 
 ---
 
 **Question 8**
-![](/bookkeeping/assets/mc-graw-accounting-course/chap9.cash/q8.exA.png)
+![](./assets/mc-graw-accounting-course/chap9.cash/q8.exA.png)
 
 
 ---
 
 **Question 9**
-![](/bookkeeping/assets/mc-graw-accounting-course/chap9.cash/q9.exA.png)
+![](./assets/mc-graw-accounting-course/chap9.cash/q9.exA.png)
 
 ---
 
 **Question 10**
-![](/bookkeeping/assets/mc-graw-accounting-course/chap9.cash/q10.exer.png)
+![](./assets/mc-graw-accounting-course/chap9.cash/q10.exer.png)
 
 ---
 
@@ -183,11 +183,11 @@ Common Issues:
 **& Adjusting Financial Ledgers / Records**
 
 
-![](/bookkeeping/assets/mc-graw-accounting-course/chap9.cash/22.recon.png)
+![](./assets/mc-graw-accounting-course/chap9.cash/22.recon.png)
 
 
-![](/bookkeeping/assets/mc-graw-accounting-course/chap9.cash/22.recon.steps.1st.png)
-![](/bookkeeping/assets/mc-graw-accounting-course/chap9.cash/23.recon.steps.2nd.png)
-![](/bookkeeping/assets/mc-graw-accounting-course/chap9.cash/25.more.cash.controls.png)
-![](/bookkeeping/assets/mc-graw-accounting-course/chap9.cash/26.banking.internal.controls.png)
+![](./assets/mc-graw-accounting-course/chap9.cash/22.recon.steps.1st.png)
+![](./assets/mc-graw-accounting-course/chap9.cash/23.recon.steps.2nd.png)
+![](./assets/mc-graw-accounting-course/chap9.cash/25.more.cash.controls.png)
+![](./assets/mc-graw-accounting-course/chap9.cash/26.banking.internal.controls.png)
 -->

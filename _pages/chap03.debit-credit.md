@@ -5,7 +5,7 @@ title: 4-Debit & Credits
 
 ### 1. Debit & Credits
 
-![Cedit=Destination, Debit=Source](/bookkeeping/assets/mc-graw-accounting-course/images/debit-destination-credit-source.png)
+![Cedit=Destination, Debit=Source](./assets/mc-graw-accounting-course/images/debit-destination-credit-source.png)
 
 **In General**:
 
@@ -42,14 +42,14 @@ Every transaction has (at least) two components:
 
 | Example Transaction |
 |:-----:|
-| ![Example Entry](/bookkeeping/assets/mc-graw-accounting-course/images/example.journal.entry.png) |
+| ![Example Entry](./assets/mc-graw-accounting-course/images/example.journal.entry.png) |
 
 - Double-entry bookkeeping states that a transaction may effect 2 or more accounts.  
   - *For example*; Money comes from account & goes into another.  
 
 ### 3. Accounting Equation
 
-![](/bookkeeping/assets/misc/balance.sheet.png)
+![](./assets/misc/balance.sheet.png)
 
 ---
 
@@ -61,7 +61,7 @@ Example C.O.A. Numbering
 |:-|:-|:-|:-|:-|
 |Assets|Liabilities|Owner Equity|Revenue|Expenses|
 
-![Example C.O.A.](/bookkeeping/assets/aipb/coa.example.png)
+![Example C.O.A.](./assets/aipb/coa.example.png)
 
 > COA's should be printable and easy to reference bc it may be used often.  
 {: .block-tip }
@@ -77,6 +77,6 @@ Other resources:
 
 - NAHCB Chart of Accounts   
 <div class="pdf-container">
-    <iframe src="/bookkeeping/assets/nacpb_material/nahb-chart-of-accounts-2016.pdf#zoom=FitH" height="600" width="100%" allowFullScreen="true">
+    <iframe src="./assets/nacpb_material/nahb-chart-of-accounts-2016.pdf#zoom=FitH" height="600" width="100%" allowFullScreen="true">
     </iframe>
 </div>

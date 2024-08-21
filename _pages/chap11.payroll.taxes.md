@@ -25,28 +25,28 @@ $$Assets + \frac{Expenses}{\begin{bmatrix}
 6. W3: Annual Transmittal of Wage & Tax Statements  
 
 <!-- 
-![](/bookkeeping/assets/mc-graw-accounting-course/chap11.payroll.taxes/1.objectives.png)
+![](./assets/mc-graw-accounting-course/chap11.payroll.taxes/1.objectives.png)
 -->
 
 ### SS & Medicare Taxes
 
-![](/bookkeeping/assets/mc-graw-accounting-course/chap11.payroll.taxes/ss.medicare.payin.png)
+![](./assets/mc-graw-accounting-course/chap11.payroll.taxes/ss.medicare.payin.png)
 
-![](/bookkeeping/assets/mc-graw-accounting-course/chap11.payroll.taxes/4.tax.liability.png)
+![](./assets/mc-graw-accounting-course/chap11.payroll.taxes/4.tax.liability.png)
 
 ### Recording Payment of Taxes Withheld
 
 - Tax Expense --> Tax Payable
 
-![](/bookkeeping/assets/mc-graw-accounting-course/chap11.payroll.taxes/6.ledger.4.ss.medicare.tax.png)
+![](./assets/mc-graw-accounting-course/chap11.payroll.taxes/6.ledger.4.ss.medicare.tax.png)
 
 ### Quarterly Payout of Earning Records
 
 - Payout to Fed.Taxes Withheld
   
-![](/bookkeeping/assets/mc-graw-accounting-course/chap11.payroll.taxes/7.ledger.example.taxes.payable.png)
+![](./assets/mc-graw-accounting-course/chap11.payroll.taxes/7.ledger.example.taxes.payable.png)
 
-![](/bookkeeping/assets/mc-graw-accounting-course/chap11.payroll.taxes/8.earning.records.png)
+![](./assets/mc-graw-accounting-course/chap11.payroll.taxes/8.earning.records.png)
 
 ---
 
@@ -80,42 +80,42 @@ What is Federal Unemployment Tax Act (FUTA) & State Unemployment Tax Act (SUTA)?
 - *EFTPS Electronic Federal Tax Payment System* - EFTPS must be used if Payroll is >= $200,000, o.w. a 10% penalty is possible
 
 <!--
-![](/bookkeeping/assets/mc-graw-accounting-course/chap11.payroll.taxes/2.aca.provisions.png)
+![](./assets/mc-graw-accounting-course/chap11.payroll.taxes/2.aca.provisions.png)
 -->
 
 ### SS & Medicare INFO
 
 Too much info
 
-![](/bookkeeping/assets/mc-graw-accounting-course/chap11.payroll.taxes/3.calculating.tax.liability.png)
+![](./assets/mc-graw-accounting-course/chap11.payroll.taxes/3.calculating.tax.liability.png)
 
 <!--
-![](/bookkeeping/assets/mc-graw-accounting-course/chap11.payroll.taxes/5.tax.accts.dr.cr.png)
+![](./assets/mc-graw-accounting-course/chap11.payroll.taxes/5.tax.accts.dr.cr.png)
 -->
 
 ---
 
-![Problem 1](/bookkeeping/assets/mc-graw-accounting-course/chap11.payroll.taxes/chap11.prob.1.png)
+![Problem 1](./assets/mc-graw-accounting-course/chap11.payroll.taxes/chap11.prob.1.png)
 
 ---
 
-![Problem 2](/bookkeeping/assets/mc-graw-accounting-course/chap11.payroll.taxes/chap11.prob.2.wages.table.png)
+![Problem 2](./assets/mc-graw-accounting-course/chap11.payroll.taxes/chap11.prob.2.wages.table.png)
 
 ---
 
-![940 form-problem 3](/bookkeeping/assets/mc-graw-accounting-course/chap11.payroll.taxes/chap11.prob.3.940.form.png)
+![940 form-problem 3](./assets/mc-graw-accounting-course/chap11.payroll.taxes/chap11.prob.3.940.form.png)
 
 ---
 
-![940 form-problem 4](/bookkeeping/assets/mc-graw-accounting-course/chap11.payroll.taxes/chap11.prob.4.png)
+![940 form-problem 4](./assets/mc-graw-accounting-course/chap11.payroll.taxes/chap11.prob.4.png)
 
 ---
 
-![Problem 5](/bookkeeping/assets/mc-graw-accounting-course/chap11.payroll.taxes/chap11.prob.5.futa.png)
+![Problem 5](./assets/mc-graw-accounting-course/chap11.payroll.taxes/chap11.prob.5.futa.png)
 
 ---
 
-![Problem 6](/bookkeeping/assets/mc-graw-accounting-course/chap11.payroll.taxes/chap11.prob.6.png)
+![Problem 6](./assets/mc-graw-accounting-course/chap11.payroll.taxes/chap11.prob.6.png)
 
 ---
 
@@ -123,9 +123,9 @@ Too much info
 
 - Employer’s Quarterly Federal Tax Return, Form 941 - Preprinted government form used by the employer to report payroll tax information relating to social security, Medicare, and employee income tax withholding to the Internal Revenue Service
 
-![](/bookkeeping/assets/mc-graw-accounting-course/chap11.payroll.taxes/9.company.wide.tax.and.pay.schedule.png)
+![](./assets/mc-graw-accounting-course/chap11.payroll.taxes/9.company.wide.tax.and.pay.schedule.png)
 
-![](/bookkeeping/assets/mc-graw-accounting-course/chap11.payroll.taxes/10.when.to.file.png)
+![](./assets/mc-graw-accounting-course/chap11.payroll.taxes/10.when.to.file.png)
 
 [Form 941 - 2024](https://www.irs.gov/pub/irs-prior/f941--2024.pdf)
 
@@ -135,14 +135,14 @@ Too much info
 
 - Withholding statement - See Wage and Tax Statement, Form W2
 
-![](/bookkeeping/assets/mc-graw-accounting-course/chap11.payroll.taxes/w2.copies.made.png)
+![](./assets/mc-graw-accounting-course/chap11.payroll.taxes/w2.copies.made.png)
 
 
-![](/bookkeeping/assets/mc-graw-accounting-course/chap11.payroll.taxes/12.w2.form.requirements.png)
+![](./assets/mc-graw-accounting-course/chap11.payroll.taxes/12.w2.form.requirements.png)
 
 ---
 
-![](/bookkeeping/assets/mc-graw-accounting-course/chap11.payroll.taxes/11.quarters.png)
+![](./assets/mc-graw-accounting-course/chap11.payroll.taxes/11.quarters.png)
 
 
 ### Transmittal of Wage & Tax Statements, Form W-3
@@ -153,9 +153,9 @@ Too much info
 
 ### Workman's Compensation
 
-![](/bookkeeping/assets/mc-graw-accounting-course/chap11.payroll.taxes/workmans.comp.exp.payable.png)
+![](./assets/mc-graw-accounting-course/chap11.payroll.taxes/workmans.comp.exp.payable.png)
 
-![](/bookkeeping/assets/mc-graw-accounting-course/chap11.payroll.taxes/prepaid.workmans.comp.cash.2.ins.png)
+![](./assets/mc-graw-accounting-course/chap11.payroll.taxes/prepaid.workmans.comp.cash.2.ins.png)
 
 ## Section 2
 
@@ -170,34 +170,34 @@ Too much info
 
 - Merit rating system - See Experience rating system
 
-![](/bookkeeping/assets/mc-graw-accounting-course/chap11.payroll.taxes/computing.unemployment.taxes.png)
+![](./assets/mc-graw-accounting-course/chap11.payroll.taxes/computing.unemployment.taxes.png)
 
-![](/bookkeeping/assets/mc-graw-accounting-course/chap11.payroll.taxes/reporting.quarter.unemployment.taxes.png)
+![](./assets/mc-graw-accounting-course/chap11.payroll.taxes/reporting.quarter.unemployment.taxes.png)
 
-![](/bookkeeping/assets/mc-graw-accounting-course/chap11.payroll.taxes/futa3.png)
+![](./assets/mc-graw-accounting-course/chap11.payroll.taxes/futa3.png)
 
-![](/bookkeeping/assets/mc-graw-accounting-course/chap11.payroll.taxes/Screenshot%20from%202024-04-22%2017-05-35.png)
+![](./assets/mc-graw-accounting-course/chap11.payroll.taxes/Screenshot%20from%202024-04-22%2017-05-35.png)
 
-![](/bookkeeping/assets/mc-graw-accounting-course/chap11.payroll.taxes/Screenshot%20from%202024-04-22%2017-09-02.png)
+![](./assets/mc-graw-accounting-course/chap11.payroll.taxes/Screenshot%20from%202024-04-22%2017-09-02.png)
 
-![](/bookkeeping/assets/mc-graw-accounting-course/chap11.payroll.taxes/Screenshot%20from%202024-04-22%2017-12-54.png)
+![](./assets/mc-graw-accounting-course/chap11.payroll.taxes/Screenshot%20from%202024-04-22%2017-12-54.png)
 
-![](/bookkeeping/assets/mc-graw-accounting-course/chap11.payroll.taxes/Screenshot%20from%202024-04-22%2017-15-58.png)
+![](./assets/mc-graw-accounting-course/chap11.payroll.taxes/Screenshot%20from%202024-04-22%2017-15-58.png)
 
-![](/bookkeeping/assets/mc-graw-accounting-course/chap11.payroll.taxes/Screenshot%20from%202024-04-22%2017-16-40.png)
+![](./assets/mc-graw-accounting-course/chap11.payroll.taxes/Screenshot%20from%202024-04-22%2017-16-40.png)
 
-![](/bookkeeping/assets/mc-graw-accounting-course/chap11.payroll.taxes/Screenshot%20from%202024-04-22%2017-17-41.png)
+![](./assets/mc-graw-accounting-course/chap11.payroll.taxes/Screenshot%20from%202024-04-22%2017-17-41.png)
 
-![](/bookkeeping/assets/mc-graw-accounting-course/chap11.payroll.taxes/tax.table.png)
+![](./assets/mc-graw-accounting-course/chap11.payroll.taxes/tax.table.png)
 
-![](/bookkeeping/assets/mc-graw-accounting-course/chap11.payroll.taxes/13.w2.info.png)
+![](./assets/mc-graw-accounting-course/chap11.payroll.taxes/13.w2.info.png)
 
-![](/bookkeeping/assets/mc-graw-accounting-course/chap11.payroll.taxes/14.w3.info.png)
+![](./assets/mc-graw-accounting-course/chap11.payroll.taxes/14.w3.info.png)
 
 #### irs pub15 cirE Employers tax guide pdf
 
 <div class="pdf-container">
-    <iframe src="/bookkeeping/assets/misc/irs.pub15.cirE.Employers.tax guide.pdf#zoom=FitH" height="600" width="100%" allowFullScreen="true">
+    <iframe src="./assets/misc/irs.pub15.cirE.Employers.tax guide.pdf#zoom=FitH" height="600" width="100%" allowFullScreen="true">
     </iframe>
 </div>
 
@@ -206,11 +206,11 @@ Too much info
 
 ### Questions
 
-![](/bookkeeping/assets/mc-graw-accounting-course/chap11.payroll.taxes/chap11.section1.q.png)
+![](./assets/mc-graw-accounting-course/chap11.payroll.taxes/chap11.section1.q.png)
 
 ### Terms
 
-![](/bookkeeping/assets/mc-graw-accounting-course/chap11.payroll.taxes/terms1.png)
+![](./assets/mc-graw-accounting-course/chap11.payroll.taxes/terms1.png)
 
 - Experience rating system: Adjusts insurance premiums based on a company's past history of claims (fewer claims = lower premiums).
 

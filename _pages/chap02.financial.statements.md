@@ -111,7 +111,7 @@ title: 3-Financial Statements
 
 |Example Trial Balance|
 |:-:|
-|![](/bookkeeping/assets/mc-graw-accounting-course/images/example.trial.balance.png)|
+|![](./assets/mc-graw-accounting-course/images/example.trial.balance.png)|
 
 ---
 
@@ -132,7 +132,7 @@ title: 3-Financial Statements
 
 **WHO**: Company<br>**WHAT**: Statement of Equity<br>**WHEN**: On A Date
 
-![Classified Balance Sheet](/bookkeeping/assets/misc/Balance-Sheet-Template-03.jpg)
+![Classified Balance Sheet](./assets/misc/Balance-Sheet-Template-03.jpg)
 
 ---
 

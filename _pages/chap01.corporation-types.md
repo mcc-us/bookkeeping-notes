@@ -4,7 +4,7 @@ title: 2-Corporation Types
 ---
 
 
-![Corporation Types](/bookkeeping/assets/mc-graw-accounting-course/chap1/corps.chap1.q1.png)
+![Corporation Types](./assets/mc-graw-accounting-course/chap1/corps.chap1.q1.png)
 
 **Knowing the business' structure impacts**  
 

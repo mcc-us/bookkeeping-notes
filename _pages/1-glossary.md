@@ -4,7 +4,7 @@ title: MC-Glossary
 ---
 
 *My definitions are abbreviated.*
-For more terms see: [Glossary #2](/2024-01-01-Glossary.html)
+For more terms see: [Glossary #2](https://mcc-us.github.io/mc-bk/2024-01-01-Glossary.html)
 
 1. *Accounts*: Records, like a bucket, that track specific assets, liabilities, equity, revenue, or expenses.
 

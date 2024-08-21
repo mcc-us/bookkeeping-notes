@@ -11,33 +11,33 @@ title: 13-Financial Statements & Closing Procedures
 
 ## Classified Income Statement
 
-![Income Statement](/bookkeeping/assets/mc-graw-accounting-course/chap13-fin.statements/total_IS.png)
+![Income Statement](./assets/mc-graw-accounting-course/chap13-fin.statements/total_IS.png)
 
-![Income Statement](/bookkeeping/assets/mc-graw-accounting-course/chap13-fin.statements/chap.13.ex.3.classifieds.png)
+![Income Statement](./assets/mc-graw-accounting-course/chap13-fin.statements/chap.13.ex.3.classifieds.png)
 
 ## Statement of Equity
 
-![Equity](/bookkeeping/assets/mc-graw-accounting-course/chap13-fin.statements/statement.owners.equity.png)
+![Equity](./assets/mc-graw-accounting-course/chap13-fin.statements/statement.owners.equity.png)
 
 ## Classified Balance Sheet
 
-![Balance Sheet](/bookkeeping/assets/mc-graw-accounting-course/chap13-fin.statements/total.classified.bal.sheet.png)
+![Balance Sheet](./assets/mc-graw-accounting-course/chap13-fin.statements/total.classified.bal.sheet.png)
 
 ## Classified Post-Closing Balance Sheet
 
-![Post-Closing Balance Sheet](/bookkeeping/assets/mc-graw-accounting-course/chap13-fin.statements/1b.post.closing.png)
+![Post-Closing Balance Sheet](./assets/mc-graw-accounting-course/chap13-fin.statements/1b.post.closing.png)
 
 ## Classified Categories
 
-![Classified Categories](/bookkeeping/assets/mc-graw-accounting-course/chap13-fin.statements/chap.13.ex.1.classifieds.png)
+![Classified Categories](./assets/mc-graw-accounting-course/chap13-fin.statements/chap.13.ex.1.classifieds.png)
 
-![Classified Categories2](/bookkeeping/assets/mc-graw-accounting-course/chap13-fin.statements/chap.13.ex.2.classifieds.png)
+![Classified Categories2](./assets/mc-graw-accounting-course/chap13-fin.statements/chap.13.ex.2.classifieds.png)
 
 ---
 
 Calculations
 
-![Post-Closing Balance Sheet](/bookkeeping/assets/mc-graw-accounting-course/chap13-fin.statements/chap.13.ex.10.calculations.png)
+![Post-Closing Balance Sheet](./assets/mc-graw-accounting-course/chap13-fin.statements/chap.13.ex.10.calculations.png)
 
 ---
 
@@ -54,7 +54,7 @@ Calculations
 
 **Example**  
 
-![ID.reversing.entries](/bookkeeping/assets/mc-graw-accounting-course/chap13-fin.statements/ID.reversing.entries.png)
+![ID.reversing.entries](./assets/mc-graw-accounting-course/chap13-fin.statements/ID.reversing.entries.png)
 
 **12/31/2023**: You have determined that your company's employees have accrued $5,000 in wages payable to date. However, payday is not until next week(period).
 
@@ -87,7 +87,7 @@ NOTE: We re-constitute the wages expense that we had for the last period but on 
 
 ## Reversing Tax Payroll Examples
 
-![Depreciation Example](/bookkeeping/assets/mc-graw-accounting-course/chap13-fin.statements/reversing.tax.payroll.examples.png)
+![Depreciation Example](./assets/mc-graw-accounting-course/chap13-fin.statements/reversing.tax.payroll.examples.png)
 
 ---
 

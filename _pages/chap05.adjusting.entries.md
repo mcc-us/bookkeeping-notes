@@ -11,8 +11,8 @@ title: 5-Adjusting Entries
 
   1. Prepaid insurance, rent, supplies
   2. Depreciation Exp / Accumulated Depreciation
-  2. Accrued Interest (aka Deferred Revenue)
-  3. Accrued Revenue
+  3. Accrued Interest (aka Deferred Revenue)
+  4. Accrued Revenue
 
 ---
 
@@ -27,9 +27,9 @@ Deferred~ Revenue \\
 \end{bmatrix}}$$  
 
 
-### 1. Prepaid Expenses 
-   
-![Pre-paid rent example](/bookkeeping/assets/mc-graw-accounting-course/images/pre.paid.example.png)
+### 1. Prepaid Expenses
+
+![Pre-paid rent example](./assets/mc-graw-accounting-course/images/pre.paid.example.png)
 
 > **Adjusting Entry**  
 > Dr Rent Expenses &nbsp;&nbsp; 4,000 (b)  
@@ -43,10 +43,10 @@ Deferred~ Revenue \\
 
 ### 2. Depreciation Expense
 
-![depreciation adjustment example](/bookkeeping/assets/mc-graw-accounting-course/images/depreciation.example.png)
+![depreciation adjustment example](./assets/mc-graw-accounting-course/images/depreciation.example.png)
 
 
-### 3. Accrued Expense 
+### 3. Accrued Expense
 
 Accrued expenses are: Salaries, Utilities
 
@@ -62,7 +62,7 @@ Accrued expenses are: Salaries, Utilities
 
 |Normal balance of Accrued Revenue is a credit.|
 |:-:|
-|![](/bookkeeping/assets/misc/what-is-accrued-revenue.jpg)|
+|![](./assets/misc/what-is-accrued-revenue.jpg)|
   
 
 > **Example Adjusting w/ Accrued Revenue**  
@@ -83,7 +83,7 @@ Accrued expenses are: Salaries, Utilities
 
 |Define|
 |:-:|
-|![](/bookkeeping/assets/misc/what-is-deferred-revenue.jpg)|
+|![](./assets/misc/what-is-deferred-revenue.jpg)|
 
 
 **Discussion** - *This can vary depending on the business.*
@@ -100,6 +100,6 @@ Accrued expenses are: Salaries, Utilities
 [FA14 - Adjusting Journal Entries EXAMPLES-Tony Bell](https://www.youtube.com/watch?v=gkqoIqeiCsU)
 
 
-**For more information see Tony Bell**   
+**For more information see Tony Bell**  
 - [FA 16-Adjusted Trial Balance](https://www.youtube.com/watch?v=TKpabpcjk14)  
 - [FA 17-Preparing Detailed Financial Statements](https://www.youtube.com/watch?v=NT5zaYuEyuk)  
