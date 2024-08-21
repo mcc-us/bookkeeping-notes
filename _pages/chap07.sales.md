@@ -3,8 +3,9 @@ layout: post
 title: 7-Sales
 ---
 
-**How-To**
-- Sales w & w/o Taxes, Sales Returns & Allowances, & Discounts
+**How-To**  
+
+- Sales w & w/o Taxes, Sales Returns & Allowances, & Discounts  
 - Using Credit & Trade & Sales discount (ex. 1/30, n/30) & Trade discounts: 20% & 10%
 
 **Accounts**

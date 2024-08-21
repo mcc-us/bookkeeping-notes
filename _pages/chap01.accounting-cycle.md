@@ -31,9 +31,9 @@ layout: post
 
 ## 4. Prepare Worksheet / Trial Balance(s)
 
-- Balancing Debits and Credits is IMPORTANT here. 
+- Balancing Debits and Credits is IMPORTANT here.
 - The accounting equation is not highlighted at this point.
-- The Trial Balance lists all accounts in the journal/ledger with their *Normal Balances*, generally Assets, followed by Liabilities, Revenue, and Expenses. 
+- The Trial Balance lists all accounts in the journal/ledger with their *Normal Balances*, generally Assets, followed by Liabilities, Revenue, and Expenses.
 
 |Worksheet of Trial-Balance|
 |:-:|
@@ -55,9 +55,9 @@ layout: post
 
 ## 7. Journalize & Post Closing Entries (Close Books - If Needed)
 
-- Closing reduces Revenue, Expense, and Drawing accounts to zero. So they are reset for the next period.   
+- Closing reduces Revenue, Expense, and Drawing accounts to zero. So they are reset for the next period.
 
-**4 Steps: Rev, Exp, Income, Drawing (REID)**      
+**4 Steps: Rev, Exp, Income, Drawing (REID)**
 
 Step 1. Transfer Revenue to Income Summary  
 
@@ -65,7 +65,7 @@ Step 1. Transfer Revenue to Income Summary
 > &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Cr Income Summary**  
 {: .block-tip }
 
-Step 2. Transfer Expense accounts to Income Summary   
+Step 2. Transfer Expense accounts to Income Summary
 
 > **Dr Income Summary**  
 > &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Cr Expense**  
@@ -73,17 +73,16 @@ Step 2. Transfer Expense accounts to Income Summary
 
 - NET Income Summary Balance  
 
-Step 3. Transfer Income Summary (Net Gain or Loss) to Capital    
+Step 3. Transfer Income Summary (Net Gain or Loss) to Capital
 
 - **See 6B in Complete Worksheet Above**
 
-Step 4. Transfer Drawing to Capital    
+Step 4. Transfer Drawing to Capital
 
 > **Dr Capital Act**  
 > &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Cr Drawing**  
 {: .block-tip }
 
-  
 
 ## 8. Prepare (Official) Financial Statements
 

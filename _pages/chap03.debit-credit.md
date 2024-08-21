@@ -72,7 +72,7 @@ Example C.O.A. Numbering
 
 Other resources:  
 
-- [Chart-of-accounts Quickbooks.intuit](https://quickbooks.intuit.com/global/resources/accounting/chart-of-accounts-definition-and-example/)   
+- [Chart-of-accounts Quickbooks.intuit](https://quickbooks.intuit.com/global/resources/accounting/chart-of-accounts-definition-and-example/)  
 - [Chart of Account / Polaris - Very Good](https://polaristaxandaccounting.com/chart-of-accounts-the-ultimate-guide-with-examples/)  
 
 - NAHCB Chart of Accounts   

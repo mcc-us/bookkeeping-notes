@@ -47,7 +47,7 @@ Petty Cash must have an **Analysis Sheet** to mark down purchases.
 ![](/bookkeeping/assets/mc-graw-accounting-course/chap9.cash/2b.replenish.petty.cash.png)
 
 
-### 2. Cash Sales & Cash Variance 
+### 2. Cash Sales & Cash Variance
 
 - Cash Register `Cash Short or Over`, `Cash Variance` account is a temporary account used to record any discrepancies.  
 
@@ -66,7 +66,6 @@ Petty Cash must have an **Analysis Sheet** to mark down purchases.
 ---
 
 ### 3. Promissory notes
-
 
 *Promissory note* - A written promise to pay a specified amount of money on a specific date  
 
@@ -138,14 +137,10 @@ Common Issues:
 
 - Reconciliation Differences: If you can't reconcile after a reasonable effort, contact your bank to investigate any unresolved discrepancies.  
 
-
 ---
-
 
 **Question 4**
 ![](/bookkeeping/assets/mc-graw-accounting-course/chap9.cash/29.bank.recon.example.png)
-
-
 
 
 **Question 4**

@@ -99,7 +99,7 @@ title: 3-Financial Statements
 **4 Steps**  
 
 1. Enter in order: Assets followed by Liabilities, Capital, Drawings, Revenue, and Expenses
-2. Enter account balance using **Normal Balance**. See: POST   
+2. Enter account balance using **Normal Balance**. See: POST
 3. IS trial balance is in balance, for example: Debits = Credits  
 4. Double underscore Trial Balance columns to show that the work in that column is complete.  
 
@@ -127,7 +127,7 @@ title: 3-Financial Statements
 > Include Drawings PRE-CLOSING  
 {: .block-tip }  
 
-> Expenses NOT Included for Closed Balance Sheet 
+> Expenses NOT Included for Closed Balance Sheet
 {: .block-danger }  
 
 **WHO**: Company<br>**WHAT**: Statement of Equity<br>**WHEN**: On A Date

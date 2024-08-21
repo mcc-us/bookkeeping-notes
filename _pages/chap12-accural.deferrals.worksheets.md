@@ -203,5 +203,3 @@ Compounding Interest = $\large P(1 + \frac{R}{n})^{nT}$ ; where n = Periods
 - Unearned Income: This is a liability created when you receive payment in advance for a service not yet performed.  Imagine receiving a payment for a magazine subscription that starts next month. You have a liability (unearned income) until you deliver the service (magazines) over time.
 
 ![](/bookkeeping/assets/mc-graw-accounting-course/chap12-accurals/8.over.all.review.png)
-
-EOF

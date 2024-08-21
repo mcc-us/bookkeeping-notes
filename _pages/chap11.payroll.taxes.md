@@ -4,7 +4,6 @@ title: 11-Payroll Taxes
 --- 
 
 
-
 ## Payroll Tax Expense & Liability Accounts
 
 $$Assets + \frac{Expenses}{\begin{bmatrix}
@@ -47,9 +46,7 @@ $$Assets + \frac{Expenses}{\begin{bmatrix}
   
 ![](/bookkeeping/assets/mc-graw-accounting-course/chap11.payroll.taxes/7.ledger.example.taxes.payable.png)
 
-
 ![](/bookkeeping/assets/mc-graw-accounting-course/chap11.payroll.taxes/8.earning.records.png)
-
 
 ---
 
@@ -63,7 +60,7 @@ What is Federal Unemployment Tax Act (FUTA) & State Unemployment Tax Act (SUTA)?
 |Tax Rate|Generally pay 0.6% on the first $7k,<br>O.W. 6.0%|Varies by state (2-8%)|
 |Paid| Quarterly if >= $500 | Quarterly |
 
-1. FUTA and SUTA are paid entirely by the employer.   
+1. FUTA and SUTA are paid entirely by the employer.  
 
 2. FUTA & SUTA support unemployment benefit programs.  
 
@@ -87,7 +84,6 @@ What is Federal Unemployment Tax Act (FUTA) & State Unemployment Tax Act (SUTA)?
 -->
 
 ### SS & Medicare INFO
-
 
 Too much info
 
@@ -133,7 +129,6 @@ Too much info
 
 [Form 941 - 2024](https://www.irs.gov/pub/irs-prior/f941--2024.pdf)
 
-
 ### Wage & Tax Statement, Form W2
 
 - Wage and Tax Statement, Form W2 - Preprinted government form that contains information about an employee’s earnings and tax withholdings for the year
@@ -173,13 +168,11 @@ Too much info
 
 - Experience rating system - A system that rewards an employer for maintaining steady employment conditions by reducing the firm’s state unemployment tax rate
 
-
 - Merit rating system - See Experience rating system
 
 ![](/bookkeeping/assets/mc-graw-accounting-course/chap11.payroll.taxes/computing.unemployment.taxes.png)
 
 ![](/bookkeeping/assets/mc-graw-accounting-course/chap11.payroll.taxes/reporting.quarter.unemployment.taxes.png)
-
 
 ![](/bookkeeping/assets/mc-graw-accounting-course/chap11.payroll.taxes/futa3.png)
 
@@ -189,7 +182,6 @@ Too much info
 
 ![](/bookkeeping/assets/mc-graw-accounting-course/chap11.payroll.taxes/Screenshot%20from%202024-04-22%2017-12-54.png)
 
-
 ![](/bookkeeping/assets/mc-graw-accounting-course/chap11.payroll.taxes/Screenshot%20from%202024-04-22%2017-15-58.png)
 
 ![](/bookkeeping/assets/mc-graw-accounting-course/chap11.payroll.taxes/Screenshot%20from%202024-04-22%2017-16-40.png)
@@ -198,13 +190,9 @@ Too much info
 
 ![](/bookkeeping/assets/mc-graw-accounting-course/chap11.payroll.taxes/tax.table.png)
 
-
-
-
 ![](/bookkeeping/assets/mc-graw-accounting-course/chap11.payroll.taxes/13.w2.info.png)
 
 ![](/bookkeeping/assets/mc-graw-accounting-course/chap11.payroll.taxes/14.w3.info.png)
-
 
 #### irs pub15 cirE Employers tax guide pdf
 
@@ -214,20 +202,15 @@ Too much info
 </div>
 
 <!--
----
-
 # NOT NEEDED
 
 ### Questions
 
 ![](/bookkeeping/assets/mc-graw-accounting-course/chap11.payroll.taxes/chap11.section1.q.png)
 
----
-
 ### Terms
 
 ![](/bookkeeping/assets/mc-graw-accounting-course/chap11.payroll.taxes/terms1.png)
-
 
 - Experience rating system: Adjusts insurance premiums based on a company's past history of claims (fewer claims = lower premiums).
 
@@ -244,5 +227,3 @@ Too much info
 - Back period: Refers to a previous pay period or tax year for which tax filings or payments were missed or need to be adjusted.
 
 -->
-
-EOF

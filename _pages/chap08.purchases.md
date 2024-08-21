@@ -5,11 +5,11 @@ title: 8-Purchases
 
 **How-To**
 
-- Purchases, Discounts, Returns & Allowances, Net delivered cost of purchases   
-- Internal controls, perpetual inventory system    
+- Purchases, Discounts, Returns & Allowances, Net delivered cost of purchases  
+- Internal controls, perpetual inventory system  
 
-- Treat Purchases like an Asset or Expense, & Freight is an Expense   
-- CE = Contra Expense Act.
+- Treat Purchases like an Asset or Expense, & Freight is an Expense  
+- CE = Contra Expense Act  
 
 $$Assets + \frac{Expenses}{\begin{bmatrix}
 Purchases \\
@@ -33,7 +33,7 @@ Purchase~ Returns~ \&~ Allowances(CE) \\
 
 ### 1. Purchases w/ Freight Costs
 
-In General: 
+In General:
 1. **Most Often**, the seller pays the freight charge & includes it on the invoice.
 
 2. The buyer is billed directly by the transportation company for the freight charge. The buyer issues a check directly to the freight company.
@@ -44,8 +44,8 @@ In General:
 
 ![](/bookkeeping/assets/mc-graw-accounting-course/chap8.purchases/5.purcahse.allowances.redux.png)
 
->**Purchase Terms** are negotiated   
-> Common ones include:   
+>**Purchase Terms** are negotiated  
+> Common ones include:  
 > n/30 - Due in 30 days  
 > n/10 EOM - Due 10 after End of Month  
 > 1/10 - 1 % for cash or <= 10 days  
@@ -101,7 +101,3 @@ WATCH this [Perpetual Inventory Accounting by Edspira](https://www.youtube.com/w
 ![](/bookkeeping/assets/mc-graw-accounting-course/chap8.purchases/208.cost.of.goods.transactions.png)
 
 ![](/bookkeeping/assets/mc-graw-accounting-course/chap8.purchases/209.cost.goods.merch.sales.png)
-
----
-
-EOF
